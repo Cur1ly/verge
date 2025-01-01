@@ -1,0 +1,49 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="Init" type="InitTab" active="false" scrollx="64.60820032704487" scrolly="205.0531443625241" scale="0.6665845324388844"></tab>
+  <tab name="New Tab" type="CommonTab" active="true" scrollx="192.3433755848756" scrolly="-51.06771032274355" scale="1">
+    <block xmlns="https://developers.google.com/blockly/xml" type="addAnnotation" id="lVSH7q;,dfC98;OUUWMS" x="-10" y="510">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+      <value name="ANNOTATION">
+        <shadow type="text" id="ADqv2#_N9YHiz_)zYwD;">
+          <field name="TEXT">Дверь</field>
+        </shadow>
+      </value>
+      <value name="TARGET">
+        <shadow type="objectList" id="j!VglU,,]+6{[5YyEd`d">
+          <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+        </shadow>
+      </value>
+      <value name="CONTENTS">
+        <shadow type="text" id="FcP42Aii}UAA~AZ49rg^">
+          <field name="TEXT"></field>
+        </shadow>
+        <block type="textMultiline" id=")fsz}azdl;261GGbbo-2">
+          <field name="HIGHLIGHT_MODE">html</field>
+          <field name="TEXT" editor-height="3" editor-width="392.7273220486111">&lt;p style="font-size: 12px, width: 300px;"&gt;&amp;#10;    &lt;b&gt;Правая дверь&lt;/b&gt;&lt;/p&gt;</field>
+        </block>
+      </value>
+      <value name="ID">
+        <shadow type="text" id="%jyl2wNy|_Bdu[,AZ)@e">
+          <field name="TEXT">PD</field>
+        </shadow>
+      </value>
+      <next>
+        <block type="setHTMLElemAttribute" id="tM?e{xJ{c.u7^+oPZwWf">
+          <field name="ATTRIBUTE">title</field>
+          <field name="PARENT">FALSE</field>
+          <value name="VALUE">
+            <shadow type="text" id="+4gPH(?TT$DYrR3Kua94">
+              <field name="TEXT">Правая дверь</field>
+            </shadow>
+          </value>
+          <value name="ID">
+            <shadow type="text" id="OKBwbka(~xFA0h`J+%Gp">
+              <field name="TEXT">PD</field>
+            </shadow>
+          </value>
+        </block>
+      </next>
+    </block>
+  </tab>
+  <editorsettings viewport-x="471.2545288085937" viewport-y="38.8181848526001" viewport-w="349.2" viewport-h="437" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>

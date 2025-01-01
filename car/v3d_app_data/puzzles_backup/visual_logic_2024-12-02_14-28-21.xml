@@ -1,0 +1,2234 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="Init" type="InitTab" active="false" scrollx="64.60820032704487" scrolly="0" scale="0.6665845324388844"></tab>
+  <tab name="New Tab" type="CommonTab" active="true" scrollx="-891.8105371474771" scrolly="-1133.46422842835" scale="0.7663409050953108">
+    <variables xmlns="https://developers.google.com/blockly/xml">
+      <variable id="C$h_,TqVy^vr8NdL~VeO">car</variable>
+      <variable id="vPuz4GXyu}_eZl.vV7;i">pause</variable>
+    </variables>
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenHovered" id="OoGonWM?48*eBf)weJ|h" inline="false" x="-30" y="70">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="-tn!NM9qPL9xM9+xMP*p">
+          <field name="FIELDNAME">122 3D фрагмент_90 (Assembly_52_grb (Lego_RallyCar_52_g</field>
+        </shadow>
+      </value>
+      <statement name="DO_OVER">
+        <block type="addAnnotation" id="1`8oaDZ@IKHDVX{H^$w.">
+          <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+          <value name="ANNOTATION">
+            <shadow type="text" id="kpPy1m:%bt35|T.S,]7B">
+              <field name="TEXT">Багажник</field>
+            </shadow>
+          </value>
+          <value name="TARGET">
+            <shadow type="objectList" id="D3V8X1=~GCy;%,UDJ3*a">
+              <field name="FIELDNAME">122 3D фрагмент_90 (Assembly_52_grb (Lego_RallyCar_52_g</field>
+            </shadow>
+          </value>
+          <value name="CONTENTS">
+            <shadow type="text" id="zI[o-{8P2Uo0-mw2ACs#">
+              <field name="TEXT"></field>
+            </shadow>
+          </value>
+          <value name="ID">
+            <shadow type="text" id=":n9pTHW9:%!{x^Zt0S_4">
+              <field name="TEXT">PD</field>
+            </shadow>
+          </value>
+          <next>
+            <block type="outline" id=".PQ]ThDtjbA:f#fOhu-`">
+              <field name="DO_WHAT">ENABLE</field>
+              <value name="TARGET">
+                <shadow type="objectList" id="%b|TCNe[l}P-!wBwvo1H">
+                  <field name="FIELDNAME">122 3D фрагмент_90 (Assembly_52_grb (Lego_RallyCar_52_g</field>
+                </shadow>
+              </value>
+            </block>
+          </next>
+        </block>
+      </statement>
+      <statement name="DO_OUT">
+        <block type="removeAnnotation" id="ciNP4*1DAL)qk3[ps-;6">
+          <value name="TARGET">
+            <shadow type="objectList" id="qS!:r`a?v?VPr~DN(4Z$">
+              <field name="FIELDNAME">122 3D фрагмент_90 (Assembly_52_grb (Lego_RallyCar_52_g</field>
+            </shadow>
+          </value>
+          <next>
+            <block type="outline" id="-187OLcp/|m!abpVTH?j">
+              <field name="DO_WHAT">DISABLE</field>
+              <value name="TARGET">
+                <shadow type="objectList" id="UL`ZTr)}579}~-|EI_Xn">
+                  <field name="FIELDNAME">122 3D фрагмент_90 (Assembly_52_grb (Lego_RallyCar_52_g</field>
+                </shadow>
+              </value>
+            </block>
+          </next>
+        </block>
+      </statement>
+      <next>
+        <block type="whenHovered" id="V/Ql9b8l*P=Yv4g-aXpF" inline="false">
+          <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+          <field name="X_RAY">FALSE</field>
+          <value name="VALUE">
+            <shadow type="objectList" id=",,/m7F4Eq$mS_n8}Pq=D">
+              <field name="FIELDNAME">96 3D фрагмент_72 (Parts_97_White_grb (Lego_RallyCar_97</field>
+            </shadow>
+          </value>
+          <statement name="DO_OVER">
+            <block type="addAnnotation" id="{8b3$h(`@l=I#T^8_hP2">
+              <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+              <value name="ANNOTATION">
+                <shadow type="text" id="C:])%S[N*lq?==i/.Hy^">
+                  <field name="TEXT">Капот</field>
+                </shadow>
+              </value>
+              <value name="TARGET">
+                <shadow type="objectList" id="x#BgLKC*c$RndoEZU8tt">
+                  <field name="FIELDNAME">96 3D фрагмент_72 (Parts_97_White_grb (Lego_RallyCar_97</field>
+                </shadow>
+              </value>
+              <value name="CONTENTS">
+                <shadow type="text" id="4th(A=qrvs5lk8[E=RlS">
+                  <field name="TEXT"></field>
+                </shadow>
+              </value>
+              <value name="ID">
+                <shadow type="text" id="?mvz_!6~6GiqMB}gx]u:">
+                  <field name="TEXT">PD</field>
+                </shadow>
+              </value>
+              <next>
+                <block type="outline" id="akZ[B)r-;VF]E^WpO^~j">
+                  <field name="DO_WHAT">ENABLE</field>
+                  <value name="TARGET">
+                    <shadow type="objectList" id="W/yW?iyMMe?,ctCN-{;R">
+                      <field name="FIELDNAME">96 3D фрагмент_72 (Parts_97_White_grb (Lego_RallyCar_97</field>
+                    </shadow>
+                  </value>
+                </block>
+              </next>
+            </block>
+          </statement>
+          <statement name="DO_OUT">
+            <block type="removeAnnotation" id="JdmhkEp3o@ClV!^vytgA">
+              <value name="TARGET">
+                <shadow type="objectList" id="Tl1kA5!SZRNHX#=qE/xO">
+                  <field name="FIELDNAME">96 3D фрагмент_72 (Parts_97_White_grb (Lego_RallyCar_97</field>
+                </shadow>
+              </value>
+              <next>
+                <block type="outline" id="22ixhQe:nKLd9PSD}gT^">
+                  <field name="DO_WHAT">DISABLE</field>
+                  <value name="TARGET">
+                    <shadow type="objectList" id="xu1U-t$_[Q[DIBz%hq+E">
+                      <field name="FIELDNAME">96 3D фрагмент_72 (Parts_97_White_grb (Lego_RallyCar_97</field>
+                    </shadow>
+                  </value>
+                </block>
+              </next>
+            </block>
+          </statement>
+          <next>
+            <block type="whenHovered" id="M6ElY9A4X0oyKV/wkZBY" inline="false">
+              <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+              <field name="X_RAY">FALSE</field>
+              <value name="VALUE">
+                <shadow type="objectList" id="MlV!7_Qz=(=,d}S1EN!Q">
+                  <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+                </shadow>
+              </value>
+              <statement name="DO_OVER">
+                <block type="addAnnotation" id="lVSH7q;,dfC98;OUUWMS">
+                  <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+                  <value name="ANNOTATION">
+                    <shadow type="text" id="ADqv2#_N9YHiz_)zYwD;">
+                      <field name="TEXT">Правая дверь</field>
+                    </shadow>
+                  </value>
+                  <value name="TARGET">
+                    <shadow type="objectList" id="j!VglU,,]+6{[5YyEd`d">
+                      <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+                    </shadow>
+                  </value>
+                  <value name="CONTENTS">
+                    <shadow type="text" id="FcP42Aii}UAA~AZ49rg^">
+                      <field name="TEXT"></field>
+                    </shadow>
+                  </value>
+                  <value name="ID">
+                    <shadow type="text" id="%jyl2wNy|_Bdu[,AZ)@e">
+                      <field name="TEXT">PD</field>
+                    </shadow>
+                  </value>
+                  <next>
+                    <block type="outline" id="TdJc#bQGQ~nsbJNuf*v(">
+                      <field name="DO_WHAT">ENABLE</field>
+                      <value name="TARGET">
+                        <shadow type="objectList" id="6hbj7xW@6O!r$2eULfk8">
+                          <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+                        </shadow>
+                      </value>
+                    </block>
+                  </next>
+                </block>
+              </statement>
+              <statement name="DO_OUT">
+                <block type="removeAnnotation" id="?~9V#$Je7=x#WTxg^#GT">
+                  <value name="TARGET">
+                    <shadow type="objectList" id="R_csVHO9}fkJqeOFYs6R">
+                      <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+                    </shadow>
+                  </value>
+                  <next>
+                    <block type="outline" id="nfcOxr?8fUs,VBM4if;[">
+                      <field name="DO_WHAT">DISABLE</field>
+                      <value name="TARGET">
+                        <shadow type="objectList" id="oT:6wcE|w-Y8}IxxzAag">
+                          <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+                        </shadow>
+                      </value>
+                    </block>
+                  </next>
+                </block>
+              </statement>
+              <next>
+                <block type="whenHovered" id="1Y9nj;`;jx:=A22|_tP@" inline="false">
+                  <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+                  <field name="X_RAY">FALSE</field>
+                  <value name="VALUE">
+                    <shadow type="objectList" id="1Q+flIAJtOAV$]*xc9if">
+                      <field name="FIELDNAME">110 3D фрагмент_83 (Assembly_46_grb (Lego_RallyCar_46_g</field>
+                    </shadow>
+                  </value>
+                  <statement name="DO_OVER">
+                    <block type="addAnnotation" id="9SM|!V2@ati%XFuUoA:.">
+                      <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+                      <value name="ANNOTATION">
+                        <shadow type="text" id="D+Wde5N+02p(PgA(hmHh">
+                          <field name="TEXT">Левая дверь</field>
+                        </shadow>
+                      </value>
+                      <value name="TARGET">
+                        <shadow type="objectList" id="i:_Se3N#,9S(U)vMs;g3">
+                          <field name="FIELDNAME">110 3D фрагмент_83 (Assembly_46_grb (Lego_RallyCar_46_g</field>
+                        </shadow>
+                      </value>
+                      <value name="CONTENTS">
+                        <shadow type="text" id="?KUZ~rI]?0Mbn3oHT/jf">
+                          <field name="TEXT"></field>
+                        </shadow>
+                      </value>
+                      <value name="ID">
+                        <shadow type="text" id="6N=mJ}Z[Pj*)j$DNvMei">
+                          <field name="TEXT">PD</field>
+                        </shadow>
+                      </value>
+                      <next>
+                        <block type="outline" id="Zt,[=MU5/thdB_{L]F;w">
+                          <field name="DO_WHAT">ENABLE</field>
+                          <value name="TARGET">
+                            <shadow type="objectList" id="xA!ZFm(7hDMR8IBq(J/B">
+                              <field name="FIELDNAME">110 3D фрагмент_83 (Assembly_46_grb (Lego_RallyCar_46_g</field>
+                            </shadow>
+                          </value>
+                        </block>
+                      </next>
+                    </block>
+                  </statement>
+                  <statement name="DO_OUT">
+                    <block type="removeAnnotation" id="=laowp}/eaWjCR!+CO?0">
+                      <value name="TARGET">
+                        <shadow type="objectList" id="uB0Up8h5,.PH5+RZkPG)">
+                          <field name="FIELDNAME">110 3D фрагмент_83 (Assembly_46_grb (Lego_RallyCar_46_g</field>
+                        </shadow>
+                      </value>
+                      <next>
+                        <block type="outline" id="#I2QZkOxSlB{/_bG{s|J">
+                          <field name="DO_WHAT">DISABLE</field>
+                          <value name="TARGET">
+                            <shadow type="objectList" id=".atnQ@?P.)Vqw$,646Wl">
+                              <field name="FIELDNAME">110 3D фрагмент_83 (Assembly_46_grb (Lego_RallyCar_46_g</field>
+                            </shadow>
+                          </value>
+                        </block>
+                      </next>
+                    </block>
+                  </statement>
+                  <next>
+                    <block type="whenHovered" id="irf*$Wi8G~q%i5qZDk$N" inline="false">
+                      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+                      <field name="X_RAY">FALSE</field>
+                      <value name="VALUE">
+                        <shadow type="objectList" id="`1gDi+S1LLkiAzL1*@oZ">
+                          <field name="FIELDNAME">130 3D фрагмент_96 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                        </shadow>
+                      </value>
+                      <statement name="DO_OVER">
+                        <block type="addAnnotation" id="|_O[#!Ip]Bd:0s*z=}vY">
+                          <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+                          <value name="ANNOTATION">
+                            <shadow type="text" id="wc2E;9U`3n]P#cZ|PhgZ">
+                              <field name="TEXT">Левое колесо</field>
+                            </shadow>
+                          </value>
+                          <value name="TARGET">
+                            <shadow type="objectList" id="g9C~dFr;Bah5Qz,!:))t">
+                              <field name="FIELDNAME">130 3D фрагмент_96 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                            </shadow>
+                          </value>
+                          <value name="CONTENTS">
+                            <shadow type="text" id="=z`s5uNZ(ja[|YI3(8}]">
+                              <field name="TEXT"></field>
+                            </shadow>
+                          </value>
+                          <value name="ID">
+                            <shadow type="text" id="+Aq0ALt`F,ufF9~5g`1O">
+                              <field name="TEXT">PD</field>
+                            </shadow>
+                          </value>
+                          <next>
+                            <block type="addAnnotation" id="0MYaRk?!+uoV0|U=zd[4">
+                              <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+                              <value name="ANNOTATION">
+                                <shadow type="text" id="D{;|y%9`a`-WToRzx*(C">
+                                  <field name="TEXT">Правое колесо</field>
+                                </shadow>
+                              </value>
+                              <value name="TARGET">
+                                <shadow type="objectList" id="Mw!lEKlJZY|ig7,*GG07">
+                                  <field name="FIELDNAME">131 3D фрагмент_97 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                </shadow>
+                              </value>
+                              <value name="CONTENTS">
+                                <shadow type="text" id="J,R,y`v7d3#E-n6GwQfF">
+                                  <field name="TEXT"></field>
+                                </shadow>
+                              </value>
+                              <value name="ID">
+                                <shadow type="text" id="DOmXyS`=?]bE6E.9v|tS">
+                                  <field name="TEXT">PD</field>
+                                </shadow>
+                              </value>
+                              <next>
+                                <block type="outline" id="7IDT*Di?(.tzCfLxjGcA">
+                                  <field name="DO_WHAT">ENABLE</field>
+                                  <value name="TARGET">
+                                    <shadow type="objectList" id="]B=uwD,n?Ct$/KUPTlC7">
+                                      <field name="FIELDNAME">130 3D фрагмент_96 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                    </shadow>
+                                  </value>
+                                  <next>
+                                    <block type="outline" id="SrO^Q)GH*m=91:S@KVI]">
+                                      <field name="DO_WHAT">ENABLE</field>
+                                      <value name="TARGET">
+                                        <shadow type="objectList" id="Fw0NIE+z_H.n^^Y9vCF{">
+                                          <field name="FIELDNAME">131 3D фрагмент_97 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                        </shadow>
+                                      </value>
+                                    </block>
+                                  </next>
+                                </block>
+                              </next>
+                            </block>
+                          </next>
+                        </block>
+                      </statement>
+                      <statement name="DO_OUT">
+                        <block type="removeAnnotation" id="Fy$1W|+2CUkdCHJ)Haq-">
+                          <value name="TARGET">
+                            <shadow type="objectList" id="MI1LelKiVi/(.:B/-+FE">
+                              <field name="FIELDNAME">130 3D фрагмент_96 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                            </shadow>
+                          </value>
+                          <next>
+                            <block type="removeAnnotation" id="A#w%4^;=NBu-9PEb}7:F">
+                              <value name="TARGET">
+                                <shadow type="objectList" id="HdM9|f5u5GskbXdq@n-z">
+                                  <field name="FIELDNAME">131 3D фрагмент_97 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                </shadow>
+                              </value>
+                              <next>
+                                <block type="outline" id="Ax9$17H`!#_iZgsNyE3(">
+                                  <field name="DO_WHAT">DISABLE</field>
+                                  <value name="TARGET">
+                                    <shadow type="objectList" id="(a[/Il382FuD]Yc^1$m3">
+                                      <field name="FIELDNAME">130 3D фрагмент_96 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                    </shadow>
+                                  </value>
+                                  <next>
+                                    <block type="outline" id="Qi^`%edDm0~cJ9?!@)LG">
+                                      <field name="DO_WHAT">DISABLE</field>
+                                      <value name="TARGET">
+                                        <shadow type="objectList" id="ur6[u=/hDCAAyQV~W)r+">
+                                          <field name="FIELDNAME">131 3D фрагмент_97 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                        </shadow>
+                                      </value>
+                                    </block>
+                                  </next>
+                                </block>
+                              </next>
+                            </block>
+                          </next>
+                        </block>
+                      </statement>
+                      <next>
+                        <block type="whenHovered" id="+_`J@t?qi96{XdQ@kV(4" inline="false">
+                          <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+                          <field name="X_RAY">FALSE</field>
+                          <value name="VALUE">
+                            <shadow type="objectList" id="`D;Uoa?~K|z-8[*;*8;/">
+                              <field name="FIELDNAME">131 3D фрагмент_97 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                            </shadow>
+                          </value>
+                          <statement name="DO_OVER">
+                            <block type="addAnnotation" id="r8ROZ*qGVmzvqya*-%AF">
+                              <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+                              <value name="ANNOTATION">
+                                <shadow type="text" id="QSubN493Y^P)3GQbe/BF">
+                                  <field name="TEXT">Левое колесо</field>
+                                </shadow>
+                              </value>
+                              <value name="TARGET">
+                                <shadow type="objectList" id="p`..rMR+jBdw2k+UeiK=">
+                                  <field name="FIELDNAME">130 3D фрагмент_96 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                </shadow>
+                              </value>
+                              <value name="CONTENTS">
+                                <shadow type="text" id="[Dofq[abll{l~*Z5K=/f">
+                                  <field name="TEXT"></field>
+                                </shadow>
+                              </value>
+                              <value name="ID">
+                                <shadow type="text" id=":KhB=/~0|Y2*F4@j$Cvy">
+                                  <field name="TEXT">PD</field>
+                                </shadow>
+                              </value>
+                              <next>
+                                <block type="addAnnotation" id="zlr9?yg({C03Oap/6=`?">
+                                  <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+                                  <value name="ANNOTATION">
+                                    <shadow type="text" id="$^kO}qLWcg`a|v@ybC?,">
+                                      <field name="TEXT">Правое колесо</field>
+                                    </shadow>
+                                  </value>
+                                  <value name="TARGET">
+                                    <shadow type="objectList" id="f^[97p!Zw0)!,_222%|v">
+                                      <field name="FIELDNAME">131 3D фрагмент_97 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                    </shadow>
+                                  </value>
+                                  <value name="CONTENTS">
+                                    <shadow type="text" id="6/GBG:N^WT`eJ;19Z!/a">
+                                      <field name="TEXT"></field>
+                                    </shadow>
+                                  </value>
+                                  <value name="ID">
+                                    <shadow type="text" id="_j#|4{.bsYl[ug@#)RLd">
+                                      <field name="TEXT">PD</field>
+                                    </shadow>
+                                  </value>
+                                  <next>
+                                    <block type="outline" id="R6p8.dax$PIy~;vZ.;#.">
+                                      <field name="DO_WHAT">ENABLE</field>
+                                      <value name="TARGET">
+                                        <shadow type="objectList" id="B-!omqJG]=ajLjkB#,Z1">
+                                          <field name="FIELDNAME">130 3D фрагмент_96 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                        </shadow>
+                                      </value>
+                                      <next>
+                                        <block type="outline" id="{x/1pvu]=$:4/,rfk9IE">
+                                          <field name="DO_WHAT">ENABLE</field>
+                                          <value name="TARGET">
+                                            <shadow type="objectList" id="n*~WLBF^]eE[^#ExY4O|">
+                                              <field name="FIELDNAME">131 3D фрагмент_97 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                            </shadow>
+                                          </value>
+                                        </block>
+                                      </next>
+                                    </block>
+                                  </next>
+                                </block>
+                              </next>
+                            </block>
+                          </statement>
+                          <statement name="DO_OUT">
+                            <block type="removeAnnotation" id="{[10DF~[lk,ln$EqkxOf">
+                              <value name="TARGET">
+                                <shadow type="objectList" id="dq=$]oupyTu-cI5|_H$`">
+                                  <field name="FIELDNAME">130 3D фрагмент_96 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                </shadow>
+                              </value>
+                              <next>
+                                <block type="removeAnnotation" id=",k@A!==B}Ca3TrT.HzLM">
+                                  <value name="TARGET">
+                                    <shadow type="objectList" id="-Vmg6*53JeUSGw+qRD8X">
+                                      <field name="FIELDNAME">131 3D фрагмент_97 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                    </shadow>
+                                  </value>
+                                  <next>
+                                    <block type="outline" id="l^dAYyf787%`nmuGsQou">
+                                      <field name="DO_WHAT">DISABLE</field>
+                                      <value name="TARGET">
+                                        <shadow type="objectList" id="{v7S2qW)Hx{EWz+`_BRw">
+                                          <field name="FIELDNAME">130 3D фрагмент_96 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                        </shadow>
+                                      </value>
+                                      <next>
+                                        <block type="outline" id="=jT#m!MPQ@W{8X#vw8=g">
+                                          <field name="DO_WHAT">DISABLE</field>
+                                          <value name="TARGET">
+                                            <shadow type="objectList" id="07*`I!AN[f{R{P}2x^WU">
+                                              <field name="FIELDNAME">131 3D фрагмент_97 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                            </shadow>
+                                          </value>
+                                        </block>
+                                      </next>
+                                    </block>
+                                  </next>
+                                </block>
+                              </next>
+                            </block>
+                          </statement>
+                          <next>
+                            <block type="whenHovered" id="POf$ld(S/]%(Dktbt4/f" inline="false">
+                              <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+                              <field name="X_RAY">FALSE</field>
+                              <value name="VALUE">
+                                <shadow type="objectList" id="jKtyS{Az^=sD,Cnc!ang">
+                                  <field name="FIELDNAME">55 3D фрагмент_44 (Assembly_21_grb (Lego_RallyCar_21_gr</field>
+                                </shadow>
+                              </value>
+                              <statement name="DO_OVER">
+                                <block type="addAnnotation" id="Dfmv7o@sknwaxmqTG(+C">
+                                  <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+                                  <value name="ANNOTATION">
+                                    <shadow type="text" id="?5Ht8${jx/#7Lhc!+}SQ">
+                                      <field name="TEXT">Правый подкрылок</field>
+                                    </shadow>
+                                  </value>
+                                  <value name="TARGET">
+                                    <shadow type="objectList" id="G{D2@!zrqzp,,t%]cPju">
+                                      <field name="FIELDNAME">55 3D фрагмент_44 (Assembly_21_grb (Lego_RallyCar_21_gr</field>
+                                    </shadow>
+                                  </value>
+                                  <value name="CONTENTS">
+                                    <shadow type="text" id="70FPF5uiSKABbnLyEN$Q">
+                                      <field name="TEXT"></field>
+                                    </shadow>
+                                  </value>
+                                  <value name="ID">
+                                    <shadow type="text" id="n2qu+6-lz8]E.B%9c3z0">
+                                      <field name="TEXT">PD</field>
+                                    </shadow>
+                                  </value>
+                                  <next>
+                                    <block type="addAnnotation" id="4(aCc3~Mjsa(1T`p=T6i">
+                                      <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+                                      <value name="ANNOTATION">
+                                        <shadow type="text" id="H+2r8j[`6;KFr5|b{)lD">
+                                          <field name="TEXT">Левый подкрылок</field>
+                                        </shadow>
+                                      </value>
+                                      <value name="TARGET">
+                                        <shadow type="objectList" id="gGB%)qVHl*CF#cop0kUa">
+                                          <field name="FIELDNAME">57 Симметрия_13</field>
+                                        </shadow>
+                                      </value>
+                                      <value name="CONTENTS">
+                                        <shadow type="text" id="^;B7kwJBIC$g08!llJ3:">
+                                          <field name="TEXT"></field>
+                                        </shadow>
+                                      </value>
+                                      <value name="ID">
+                                        <shadow type="text" id="~`wPfloRn}|2`S6^l32#">
+                                          <field name="TEXT">PD</field>
+                                        </shadow>
+                                      </value>
+                                      <next>
+                                        <block type="outline" id="~j)4OOr6wd5XbIlv`m@a">
+                                          <field name="DO_WHAT">ENABLE</field>
+                                          <value name="TARGET">
+                                            <shadow type="objectList" id="==0iC+1uk!!e+@/:ADQ(">
+                                              <field name="FIELDNAME">55 3D фрагмент_44 (Assembly_21_grb (Lego_RallyCar_21_gr</field>
+                                            </shadow>
+                                          </value>
+                                          <next>
+                                            <block type="outline" id="uqmGqf00w{2?:=l3l6L?">
+                                              <field name="DO_WHAT">ENABLE</field>
+                                              <value name="TARGET">
+                                                <shadow type="objectList" id="dBzM$[!];|J!O|l`J_s0">
+                                                  <field name="FIELDNAME">57 Симметрия_13</field>
+                                                </shadow>
+                                              </value>
+                                            </block>
+                                          </next>
+                                        </block>
+                                      </next>
+                                    </block>
+                                  </next>
+                                </block>
+                              </statement>
+                              <statement name="DO_OUT">
+                                <block type="removeAnnotation" id="USFF`C[A%cCn=*f#Cu(6">
+                                  <value name="TARGET">
+                                    <shadow type="objectList" id="iys6]b6Z=9CGD;)w.@?o">
+                                      <field name="FIELDNAME">55 3D фрагмент_44 (Assembly_21_grb (Lego_RallyCar_21_gr</field>
+                                    </shadow>
+                                  </value>
+                                  <next>
+                                    <block type="removeAnnotation" id="@B08jgCE{3nq_kyUGdfk">
+                                      <value name="TARGET">
+                                        <shadow type="objectList" id="6|w.YZ;V{iFZddaj1Z0*">
+                                          <field name="FIELDNAME">57 Симметрия_13</field>
+                                        </shadow>
+                                      </value>
+                                      <next>
+                                        <block type="outline" id="g[BZETW(zuy#C=)CTiz|">
+                                          <field name="DO_WHAT">DISABLE</field>
+                                          <value name="TARGET">
+                                            <shadow type="objectList" id="2!siJ2R5FP}w@@0^Or7.">
+                                              <field name="FIELDNAME">55 3D фрагмент_44 (Assembly_21_grb (Lego_RallyCar_21_gr</field>
+                                            </shadow>
+                                          </value>
+                                          <next>
+                                            <block type="outline" id=":7fs1^N)IGUyq^Q6cX*;">
+                                              <field name="DO_WHAT">DISABLE</field>
+                                              <value name="TARGET">
+                                                <shadow type="objectList" id="gOCDgg.DO}tt~9_-=}Fi">
+                                                  <field name="FIELDNAME">57 Симметрия_13</field>
+                                                </shadow>
+                                              </value>
+                                            </block>
+                                          </next>
+                                        </block>
+                                      </next>
+                                    </block>
+                                  </next>
+                                </block>
+                              </statement>
+                              <next>
+                                <block type="whenHovered" id=":vLAUBLE)%@+}q8V#IwE" inline="false">
+                                  <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+                                  <field name="X_RAY">FALSE</field>
+                                  <value name="VALUE">
+                                    <shadow type="objectList" id="}%4;`~mNm^0r?Ya_FHRp">
+                                      <field name="FIELDNAME">57 Симметрия_13</field>
+                                    </shadow>
+                                  </value>
+                                  <statement name="DO_OVER">
+                                    <block type="addAnnotation" id="WM=.FuXZv;$%2l-Pxl0}">
+                                      <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+                                      <value name="ANNOTATION">
+                                        <shadow type="text" id="|EI/Q8L$JlTTaC//CtvC">
+                                          <field name="TEXT">Правый подкрылок</field>
+                                        </shadow>
+                                      </value>
+                                      <value name="TARGET">
+                                        <shadow type="objectList" id="VMzb/2=NrFIaR?ddEzVH">
+                                          <field name="FIELDNAME">55 3D фрагмент_44 (Assembly_21_grb (Lego_RallyCar_21_gr</field>
+                                        </shadow>
+                                      </value>
+                                      <value name="CONTENTS">
+                                        <shadow type="text" id="BBqY67DzZ-36t^/^%7cX">
+                                          <field name="TEXT"></field>
+                                        </shadow>
+                                      </value>
+                                      <value name="ID">
+                                        <shadow type="text" id="06gKB{o1y8K/YP)vlc}[">
+                                          <field name="TEXT">PD</field>
+                                        </shadow>
+                                      </value>
+                                      <next>
+                                        <block type="addAnnotation" id="xwid.x9jra%?=m/*p1mA">
+                                          <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+                                          <value name="ANNOTATION">
+                                            <shadow type="text" id="izXLLQgfy8=;3CAF8Mt0">
+                                              <field name="TEXT">Левый подкрылок</field>
+                                            </shadow>
+                                          </value>
+                                          <value name="TARGET">
+                                            <shadow type="objectList" id="qMHup;;A7cx,tDfA}4Bv">
+                                              <field name="FIELDNAME">57 Симметрия_13</field>
+                                            </shadow>
+                                          </value>
+                                          <value name="CONTENTS">
+                                            <shadow type="text" id="dbV%=VD+c{E_/2I!o8:r">
+                                              <field name="TEXT"></field>
+                                            </shadow>
+                                          </value>
+                                          <value name="ID">
+                                            <shadow type="text" id="+6(?-ZjW#YHm@(t43OF!">
+                                              <field name="TEXT">PD</field>
+                                            </shadow>
+                                          </value>
+                                          <next>
+                                            <block type="outline" id="PO7tVlj|g2Vu:2dFWigM">
+                                              <field name="DO_WHAT">ENABLE</field>
+                                              <value name="TARGET">
+                                                <shadow type="objectList" id="3:~^M[),}J?Tp4vL;S%|">
+                                                  <field name="FIELDNAME">55 3D фрагмент_44 (Assembly_21_grb (Lego_RallyCar_21_gr</field>
+                                                </shadow>
+                                              </value>
+                                              <next>
+                                                <block type="outline" id="xo3cclQl5/=KE`1HUx|1">
+                                                  <field name="DO_WHAT">ENABLE</field>
+                                                  <value name="TARGET">
+                                                    <shadow type="objectList" id="l37o2EP|FI/;]i{SqtL9">
+                                                      <field name="FIELDNAME">57 Симметрия_13</field>
+                                                    </shadow>
+                                                  </value>
+                                                </block>
+                                              </next>
+                                            </block>
+                                          </next>
+                                        </block>
+                                      </next>
+                                    </block>
+                                  </statement>
+                                  <statement name="DO_OUT">
+                                    <block type="removeAnnotation" id="IjXfwfowE}]]In`2H;d9">
+                                      <value name="TARGET">
+                                        <shadow type="objectList" id=",gQ{AsDDc|P1~GFiHb$!">
+                                          <field name="FIELDNAME">55 3D фрагмент_44 (Assembly_21_grb (Lego_RallyCar_21_gr</field>
+                                        </shadow>
+                                      </value>
+                                      <next>
+                                        <block type="removeAnnotation" id=")Q~D@%}O.0?-!h7O,Y*L">
+                                          <value name="TARGET">
+                                            <shadow type="objectList" id="]6fK~`e(uZ^P2w+LPB-~">
+                                              <field name="FIELDNAME">57 Симметрия_13</field>
+                                            </shadow>
+                                          </value>
+                                          <next>
+                                            <block type="outline" id="B*lu#%I7e.S*eM*]d|]g">
+                                              <field name="DO_WHAT">DISABLE</field>
+                                              <value name="TARGET">
+                                                <shadow type="objectList" id=";6W.Yu,6~XT]KTXtn1#J">
+                                                  <field name="FIELDNAME">55 3D фрагмент_44 (Assembly_21_grb (Lego_RallyCar_21_gr</field>
+                                                </shadow>
+                                              </value>
+                                              <next>
+                                                <block type="outline" id="k7)w1P@4Ze.L^+eGj(O)">
+                                                  <field name="DO_WHAT">DISABLE</field>
+                                                  <value name="TARGET">
+                                                    <shadow type="objectList" id=":7,mxVCz4g)c^Rn!m,vr">
+                                                      <field name="FIELDNAME">57 Симметрия_13</field>
+                                                    </shadow>
+                                                  </value>
+                                                </block>
+                                              </next>
+                                            </block>
+                                          </next>
+                                        </block>
+                                      </next>
+                                    </block>
+                                  </statement>
+                                </block>
+                              </next>
+                            </block>
+                          </next>
+                        </block>
+                      </next>
+                    </block>
+                  </next>
+                </block>
+              </next>
+            </block>
+          </next>
+        </block>
+      </next>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="variables_set" id="4m{QAT:$]UsmzXFEL4]Y" x="1270" y="1630">
+      <field name="VAR" id="vPuz4GXyu}_eZl.vV7;i">pause</field>
+      <value name="VALUE">
+        <block type="logic_boolean" id="DNBz`~3aCNDyjmWEksLF">
+          <field name="BOOL">FALSE</field>
+        </block>
+      </value>
+      <next>
+        <block type="whenClicked" id="iq@F{}WB{?2~I4h:ZdBp" inline="false">
+          <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+          <field name="X_RAY">FALSE</field>
+          <field name="DOUBLE_CLICK">FALSE</field>
+          <field name="LEFT_BUTTON">TRUE</field>
+          <field name="MIDDLE_BUTTON">TRUE</field>
+          <field name="RIGHT_BUTTON">TRUE</field>
+          <value name="VALUE">
+            <shadow type="objectList" id="qeZCJsCK!.I86OJ}T/X4">
+              <field name="FIELDNAME">Play</field>
+            </shadow>
+          </value>
+          <statement name="DO">
+            <block type="hide" id="[-9HF^?bgr}9yBl=~%M3">
+              <value name="VALUE">
+                <shadow type="objectList" id="BIG7+/ljnz93=}*mr.=b">
+                  <field name="FIELDNAME">Pause</field>
+                </shadow>
+              </value>
+              <next>
+                <block type="controls_ifelse" id="`yq`^?W:y*f+V%cugTv_">
+                  <value name="IF0">
+                    <block type="logic_compare" id="QaJ^wZP#Qd?,Sq^fVdYb">
+                      <field name="OP">EQ</field>
+                      <value name="A">
+                        <block type="variables_get" id="]_`/^Pdr_nD:R^`v:f?U">
+                          <field name="VAR" id="vPuz4GXyu}_eZl.vV7;i">pause</field>
+                        </block>
+                      </value>
+                      <value name="B">
+                        <block type="logic_boolean" id="7HeHd4eDTEb{,jt5@icP">
+                          <field name="BOOL">TRUE</field>
+                        </block>
+                      </value>
+                    </block>
+                  </value>
+                  <statement name="DO0">
+                    <block type="resumeAnimation" id="H_S*xPN0dLMt.bHc3*nL">
+                      <value name="VALUE">
+                        <shadow type="animationList" id="94?,UT?+d*(XQjNDv;^E">
+                          <field name="FIELDNAME">110 3D фрагмент_83 (Assembly_46_grb (Lego_RallyCar_46_g</field>
+                        </shadow>
+                      </value>
+                    </block>
+                  </statement>
+                  <statement name="ELSE">
+                    <block type="playAnimationAdv" id="=hqOr/9.MSUTY+?$eYyw">
+                      <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="true" enablewhenfinished="false"></mutation>
+                      <field name="REVERSED">FALSE</field>
+                      <field name="LOOP">LoopOnce</field>
+                      <value name="VALUE">
+                        <shadow type="animationList" id="!oL{f=z46Q}QsYYrRvk%">
+                          <field name="FIELDNAME">110 3D фрагмент_83 (Assembly_46_grb (Lego_RallyCar_46_g</field>
+                        </shadow>
+                      </value>
+                      <value name="FROM">
+                        <shadow type="math_number" id="u=DI9|B4pDrr;8/Q+wEN">
+                          <field name="NUM">0</field>
+                        </shadow>
+                      </value>
+                      <value name="TO">
+                        <shadow type="math_number" id="A/]z=Ny(tw_wb`8xfF.{">
+                          <field name="NUM">50</field>
+                        </shadow>
+                      </value>
+                      <value name="SPEED">
+                        <shadow type="math_number" id="u|AV7igRf}v4SwLxSZDq">
+                          <field name="NUM">10</field>
+                        </shadow>
+                      </value>
+                    </block>
+                  </statement>
+                  <next>
+                    <block type="hide" id="q}K^W*Li~l:4Qr$@)j9@">
+                      <value name="VALUE">
+                        <shadow type="objectList" id="I!MIUIM9W%zhuYmw;jV2">
+                          <field name="FIELDNAME">Play</field>
+                        </shadow>
+                      </value>
+                      <next>
+                        <block type="setTimeout" id="dIG8Ea?ZJ,b;h+2})oBn">
+                          <value name="VALUE">
+                            <shadow type="math_number" id="9`a$C#aOJGIyK3L@YG{:">
+                              <field name="NUM">0</field>
+                            </shadow>
+                          </value>
+                          <statement name="DO">
+                            <block type="show" id="Ve7Z{wWRoxN33{~}OvnW">
+                              <value name="VALUE">
+                                <shadow type="objectList" id="IYrM0!Bw`$T_06{J5I8G">
+                                  <field name="FIELDNAME">Pause</field>
+                                </shadow>
+                              </value>
+                            </block>
+                          </statement>
+                        </block>
+                      </next>
+                    </block>
+                  </next>
+                </block>
+              </next>
+            </block>
+          </statement>
+        </block>
+      </next>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="getAnimations" id=",5PI76Bx(.Eq*W;M+{}$" x="1730" y="2010">
+      <value name="OBJECTINPUT">
+        <shadow type="objectList" id="VKoRA,51p8,ml{8/g:]y">
+          <field name="FIELDNAME">&lt;none&gt;</field>
+        </shadow>
+        <block type="groupList" id="]zQPkWItAAQcKL{odCE+">
+          <field name="FIELDNAME">anime</field>
+        </block>
+      </value>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="!jJO3T*$FBD8BPb=23-G" inline="false" x="1270" y="2070">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="6x*)%IYx#;,DTmPofomk">
+          <field name="FIELDNAME">Pause</field>
+        </shadow>
+      </value>
+      <statement name="DO">
+        <block type="pauseAnimation" id="|zrkri*XTG:GJ(OV%8bX">
+          <value name="VALUE">
+            <shadow type="animationList" id="]i!6(gY@AZr1=xqo.3@O">
+              <field name="FIELDNAME">110 3D фрагмент_83 (Assembly_46_grb (Lego_RallyCar_46_g</field>
+            </shadow>
+          </value>
+          <next>
+            <block type="variables_set" id="Ru.aQI9r[KDLqU.z*-1(">
+              <field name="VAR" id="vPuz4GXyu}_eZl.vV7;i">pause</field>
+              <value name="VALUE">
+                <block type="logic_boolean" id="!$yZe9{|!by1rx:u(!O]">
+                  <field name="BOOL">TRUE</field>
+                </block>
+              </value>
+              <next>
+                <block type="hide" id="|`:C)q%kx0,Yd_E1,5pX">
+                  <value name="VALUE">
+                    <shadow type="objectList" id="u:e{.oEcQSZQ*%;eSx6T">
+                      <field name="FIELDNAME">Pause</field>
+                    </shadow>
+                  </value>
+                  <next>
+                    <block type="setTimeout" id="F=z4ijcz(r}aK^j8iyPx">
+                      <value name="VALUE">
+                        <shadow type="math_number" id="Rox+;]vAF!Fk3+CA{}rD">
+                          <field name="NUM">0</field>
+                        </shadow>
+                      </value>
+                      <statement name="DO">
+                        <block type="show" id="UNvQ[[xwQJR*z{]qQ~RN">
+                          <value name="VALUE">
+                            <shadow type="objectList" id="g]5o`l8om0i^XP7!.~98">
+                              <field name="FIELDNAME">Play</field>
+                            </shadow>
+                          </value>
+                        </block>
+                      </statement>
+                    </block>
+                  </next>
+                </block>
+              </next>
+            </block>
+          </next>
+        </block>
+      </statement>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="b{.`~M;?_2O]QwlM~k|h" inline="false" x="-70" y="2190">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="d{147{8_yjvFuI0u(!`v">
+          <field name="FIELDNAME">&lt;none&gt;</field>
+        </shadow>
+        <block type="allObjectList" id="x[W`_xT#1^[uO2;aC-h6"></block>
+      </value>
+      <statement name="DO">
+        <block type="autoRotateCamera" id="3A4ba6D~bueyn@oC2-}T">
+          <field name="ON_OFF">OFF</field>
+          <value name="SPEED">
+            <shadow type="math_number" id="ZNbl5N[l|7=6d|`BtKFT">
+              <field name="NUM">2</field>
+            </shadow>
+          </value>
+          <next>
+            <block type="setTimer" id="wBx7rIq4|^42%T{^@T}z">
+              <value name="ID">
+                <shadow type="text" id="*2^^Rz~@^C:W4t(FVVQN">
+                  <field name="TEXT">myTimer</field>
+                </shadow>
+              </value>
+              <value name="VALUE">
+                <shadow type="math_number" id="TN6va$kl2S7e|AP.d?es">
+                  <field name="NUM">5</field>
+                </shadow>
+              </value>
+              <value name="REPEAT">
+                <shadow type="math_number" id=":Klz_s#b`^``w/o,Ea$Q">
+                  <field name="NUM">Infinity</field>
+                </shadow>
+              </value>
+              <statement name="DO">
+                <block type="autoRotateCamera" id="`juKY^-u$8~c7#b)pD;+">
+                  <field name="ON_OFF">ON</field>
+                  <value name="SPEED">
+                    <shadow type="math_number" id="S57tyf,?UR_x[nM+C19s">
+                      <field name="NUM">2</field>
+                    </shadow>
+                  </value>
+                </block>
+              </statement>
+            </block>
+          </next>
+        </block>
+      </statement>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="getAnimations" id="L.47zfM_SBOW)xmqB]E$" x="1610" y="2150">
+      <value name="OBJECTINPUT">
+        <shadow type="objectList" id="sb*}mP4?K~]4v^b@,taC">
+          <field name="FIELDNAME">&lt;none&gt;</field>
+        </shadow>
+        <block type="groupList" id="Ai:qZSD3%R]K_sJ]I/)X">
+          <field name="FIELDNAME">anime</field>
+        </block>
+      </value>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="getAnimations" id="5HB:BX5*Z!7qaXRS]p^2" x="1770" y="2210">
+      <value name="OBJECTINPUT">
+        <shadow type="objectList" id="sb*}mP4?K~]4v^b@,taC">
+          <field name="FIELDNAME">&lt;none&gt;</field>
+        </shadow>
+        <block type="groupList" id="f,5C9`t6A0U~voa3b[%H">
+          <field name="FIELDNAME">anime</field>
+        </block>
+      </value>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="variables_set" id="@zLwO99xU.Ga2zE2c8po" x="-90" y="2430">
+      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+      <value name="VALUE">
+        <block type="logic_boolean" id="Qnh;.}+hElf!}c:@82@[">
+          <field name="BOOL">TRUE</field>
+        </block>
+      </value>
+      <next>
+        <block type="whenClicked" id="5xJvMTY2uD|d4vB^7lm`" inline="false">
+          <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+          <field name="X_RAY">FALSE</field>
+          <field name="DOUBLE_CLICK">FALSE</field>
+          <field name="LEFT_BUTTON">TRUE</field>
+          <field name="MIDDLE_BUTTON">TRUE</field>
+          <field name="RIGHT_BUTTON">TRUE</field>
+          <value name="VALUE">
+            <shadow type="objectList" id="690SM5cz?XbFZ3AV+HH*">
+              <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+            </shadow>
+            <block type="objectList" id="^rT2.)H_:+CH5mhWY*W1">
+              <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+            </block>
+          </value>
+          <statement name="DO">
+            <block type="controls_if" id="ACV@5kWv2lv@Z)T?C2Is">
+              <mutation elseif="1"></mutation>
+              <value name="IF0">
+                <block type="logic_compare" id="jD;Yk9dN;XL3D.}!;nCt">
+                  <field name="OP">EQ</field>
+                  <value name="A">
+                    <block type="variables_get" id="ox4VG?2upT**XNM`^!FH">
+                      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                    </block>
+                  </value>
+                  <value name="B">
+                    <block type="logic_boolean" id="7:u.4c9~}uF{pv5jajHr">
+                      <field name="BOOL">TRUE</field>
+                    </block>
+                  </value>
+                </block>
+              </value>
+              <statement name="DO0">
+                <block type="playAnimationAdv" id="ybyU)m{en|2V*e/1FOKj">
+                  <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="true" enablewhenfinished="true"></mutation>
+                  <field name="REVERSED">FALSE</field>
+                  <field name="LOOP">LoopOnce</field>
+                  <value name="VALUE">
+                    <shadow type="animationList" id="fhGiw{~{osGfocOZ-Ig0">
+                      <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+                    </shadow>
+                  </value>
+                  <value name="FROM">
+                    <shadow type="math_number" id="?8ceL%uP/QY9N+~G%RRQ">
+                      <field name="NUM">0</field>
+                    </shadow>
+                  </value>
+                  <value name="TO">
+                    <shadow type="math_number" id="LBz3;aA^SiZW?7m:0F+C">
+                      <field name="NUM">50</field>
+                    </shadow>
+                  </value>
+                  <value name="SPEED">
+                    <shadow type="math_number" id="D#R!V5yYGTg[jQlSK44M">
+                      <field name="NUM">10</field>
+                    </shadow>
+                  </value>
+                  <statement name="DO">
+                    <block type="variables_set" id="Ln!Ty_P6Q!iWCk}(bbEV">
+                      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                      <value name="VALUE">
+                        <block type="logic_boolean" id="AC~,oSYx$b!tep?s)+i`">
+                          <field name="BOOL">FALSE</field>
+                        </block>
+                      </value>
+                    </block>
+                  </statement>
+                </block>
+              </statement>
+              <value name="IF1">
+                <block type="logic_compare" id="Y[~2dgw+H7Kq0jDohJU|">
+                  <field name="OP">EQ</field>
+                  <value name="A">
+                    <block type="variables_get" id="PW(yiP4$`ivzr+d:|n|~">
+                      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                    </block>
+                  </value>
+                  <value name="B">
+                    <block type="logic_boolean" id="q?:tLGwXsj,a7X2urZ^V">
+                      <field name="BOOL">FALSE</field>
+                    </block>
+                  </value>
+                </block>
+              </value>
+              <statement name="DO1">
+                <block type="playAnimationAdv" id="9;9?bmODGYh^d50w?uti">
+                  <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="true" enablewhenfinished="true"></mutation>
+                  <field name="REVERSED">TRUE</field>
+                  <field name="LOOP">LoopOnce</field>
+                  <value name="VALUE">
+                    <shadow type="animationList" id="_Po:|c7qhsB2-pDqHnd|">
+                      <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+                    </shadow>
+                  </value>
+                  <value name="FROM">
+                    <shadow type="math_number" id=",Ulix3j`,k1cZ?Kwwkv|">
+                      <field name="NUM">0</field>
+                    </shadow>
+                  </value>
+                  <value name="TO">
+                    <shadow type="math_number" id="oIv:J%BwLz-fu@ClJH/b">
+                      <field name="NUM">50</field>
+                    </shadow>
+                  </value>
+                  <value name="SPEED">
+                    <shadow type="math_number" id="0;vQm50w(bNkv0bhj-h+">
+                      <field name="NUM">10</field>
+                    </shadow>
+                  </value>
+                  <statement name="DO">
+                    <block type="variables_set" id=":YFu;0j)I:%;lG2N5h{}">
+                      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                      <value name="VALUE">
+                        <block type="logic_boolean" id="q^h[l0SSvA/+:JEF5`0D">
+                          <field name="BOOL">TRUE</field>
+                        </block>
+                      </value>
+                    </block>
+                  </statement>
+                </block>
+              </statement>
+            </block>
+          </statement>
+          <next>
+            <block type="variables_set" id="2sB6mFqb^a7NW7q.K:E!">
+              <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+              <value name="VALUE">
+                <block type="logic_boolean" id="B[I{Q3#;fX[0Riis?;Ig">
+                  <field name="BOOL">TRUE</field>
+                </block>
+              </value>
+              <next>
+                <block type="whenClicked" id="vV?u9SZ@!S~O9^7tm}Ru" inline="false">
+                  <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+                  <field name="X_RAY">FALSE</field>
+                  <field name="DOUBLE_CLICK">FALSE</field>
+                  <field name="LEFT_BUTTON">TRUE</field>
+                  <field name="MIDDLE_BUTTON">TRUE</field>
+                  <field name="RIGHT_BUTTON">TRUE</field>
+                  <value name="VALUE">
+                    <shadow type="objectList" id="690SM5cz?XbFZ3AV+HH*">
+                      <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+                    </shadow>
+                    <block type="objectList" id="h0%!Kj5;DoT.1Tk3ggUi">
+                      <field name="FIELDNAME">110 3D фрагмент_83 (Assembly_46_grb (Lego_RallyCar_46_g</field>
+                    </block>
+                  </value>
+                  <statement name="DO">
+                    <block type="controls_if" id="-}$S0,eo6BQQCnT]:DCV">
+                      <mutation elseif="1"></mutation>
+                      <value name="IF0">
+                        <block type="logic_compare" id="=Aq_/R17#ruw[V#:T5x:">
+                          <field name="OP">EQ</field>
+                          <value name="A">
+                            <block type="variables_get" id="B8-|Qn0$1K(N{xt,iA~P">
+                              <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                            </block>
+                          </value>
+                          <value name="B">
+                            <block type="logic_boolean" id="qukbxfooh5m7a/XB{K:X">
+                              <field name="BOOL">TRUE</field>
+                            </block>
+                          </value>
+                        </block>
+                      </value>
+                      <statement name="DO0">
+                        <block type="playAnimationAdv" id="MWy0W97X?j12cpB|C:)Q">
+                          <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="true" enablewhenfinished="true"></mutation>
+                          <field name="REVERSED">FALSE</field>
+                          <field name="LOOP">LoopOnce</field>
+                          <value name="VALUE">
+                            <shadow type="animationList" id="=te$3aQ{T;!:G2Ty_a)Q">
+                              <field name="FIELDNAME">110 3D фрагмент_83 (Assembly_46_grb (Lego_RallyCar_46_g</field>
+                            </shadow>
+                          </value>
+                          <value name="FROM">
+                            <shadow type="math_number" id="])#AUCJVFZng8+{mwCc/">
+                              <field name="NUM">0</field>
+                            </shadow>
+                          </value>
+                          <value name="TO">
+                            <shadow type="math_number" id="-IX=CL6+QaowV=g0%1gK">
+                              <field name="NUM">50</field>
+                            </shadow>
+                          </value>
+                          <value name="SPEED">
+                            <shadow type="math_number" id="9!;5j@@A{KXvNx]NJfQe">
+                              <field name="NUM">10</field>
+                            </shadow>
+                          </value>
+                          <statement name="DO">
+                            <block type="variables_set" id="@Vxb!@oH#S/`}^FF/]B_">
+                              <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                              <value name="VALUE">
+                                <block type="logic_boolean" id="M{84T+,3??v$1.+OCMeY">
+                                  <field name="BOOL">FALSE</field>
+                                </block>
+                              </value>
+                            </block>
+                          </statement>
+                        </block>
+                      </statement>
+                      <value name="IF1">
+                        <block type="logic_compare" id="Z]^PfT!@B.p1M`R.;TfV">
+                          <field name="OP">EQ</field>
+                          <value name="A">
+                            <block type="variables_get" id="}@2J5cP[7fG^wk`z~Hp|">
+                              <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                            </block>
+                          </value>
+                          <value name="B">
+                            <block type="logic_boolean" id="T{$s(1pa3iLb]t._EarD">
+                              <field name="BOOL">FALSE</field>
+                            </block>
+                          </value>
+                        </block>
+                      </value>
+                      <statement name="DO1">
+                        <block type="playAnimationAdv" id="!iLUa/~y:p1mMSr:YI{n">
+                          <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="true" enablewhenfinished="true"></mutation>
+                          <field name="REVERSED">TRUE</field>
+                          <field name="LOOP">LoopOnce</field>
+                          <value name="VALUE">
+                            <shadow type="animationList" id="K*,JVWeN@zzbYV*,E)|%">
+                              <field name="FIELDNAME">110 3D фрагмент_83 (Assembly_46_grb (Lego_RallyCar_46_g</field>
+                            </shadow>
+                          </value>
+                          <value name="FROM">
+                            <shadow type="math_number" id="JJJLVA#|JeR,$bsA}?~@">
+                              <field name="NUM">0</field>
+                            </shadow>
+                          </value>
+                          <value name="TO">
+                            <shadow type="math_number" id="%]3Z#e29QdLO2jgwqAZ`">
+                              <field name="NUM">50</field>
+                            </shadow>
+                          </value>
+                          <value name="SPEED">
+                            <shadow type="math_number" id="@I6[cH9YVr_-;eldDqlb">
+                              <field name="NUM">10</field>
+                            </shadow>
+                          </value>
+                          <statement name="DO">
+                            <block type="variables_set" id="_oY3I4~IJ;Knv7YG#z8[">
+                              <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                              <value name="VALUE">
+                                <block type="logic_boolean" id="9)h7MJb@QWIZR@2tu#,-">
+                                  <field name="BOOL">TRUE</field>
+                                </block>
+                              </value>
+                            </block>
+                          </statement>
+                        </block>
+                      </statement>
+                    </block>
+                  </statement>
+                </block>
+              </next>
+            </block>
+          </next>
+        </block>
+      </next>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="variables_set" id=":[P|0zOv=Hi6g[1N`2dk" x="-90" y="3130">
+      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+      <value name="VALUE">
+        <block type="logic_boolean" id="KhS#}S)TQ4}v5)1KkQ:v">
+          <field name="BOOL">TRUE</field>
+        </block>
+      </value>
+      <next>
+        <block type="whenClicked" id="lI}_JD/GiYN`oVSkeN^k" inline="false">
+          <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+          <field name="X_RAY">FALSE</field>
+          <field name="DOUBLE_CLICK">FALSE</field>
+          <field name="LEFT_BUTTON">TRUE</field>
+          <field name="MIDDLE_BUTTON">TRUE</field>
+          <field name="RIGHT_BUTTON">TRUE</field>
+          <value name="VALUE">
+            <shadow type="objectList" id="690SM5cz?XbFZ3AV+HH*">
+              <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+            </shadow>
+            <block type="objectList" id="{Ze@pPuLKm{o?d*{aXoB">
+              <field name="FIELDNAME">130 3D фрагмент_96 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+            </block>
+          </value>
+          <statement name="DO">
+            <block type="controls_if" id="OdSh?4DDbEa5E?[IQ,_e">
+              <mutation elseif="1"></mutation>
+              <value name="IF0">
+                <block type="logic_compare" id="nSduOi41#NElI6I*Mj@:">
+                  <field name="OP">EQ</field>
+                  <value name="A">
+                    <block type="variables_get" id="?ojQ;tG5U$,r%bZb%dci">
+                      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                    </block>
+                  </value>
+                  <value name="B">
+                    <block type="logic_boolean" id="ZSU@p[^_E1Rp2Vf1NvU_">
+                      <field name="BOOL">TRUE</field>
+                    </block>
+                  </value>
+                </block>
+              </value>
+              <statement name="DO0">
+                <block type="playAnimationAdv" id="!VN,ht%Lq?i}x95JLfi6">
+                  <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="true" enablewhenfinished="true"></mutation>
+                  <field name="REVERSED">FALSE</field>
+                  <field name="LOOP">LoopOnce</field>
+                  <value name="VALUE">
+                    <shadow type="animationList" id="~eUB2wDS(HY?-L`[FUg1">
+                      <field name="FIELDNAME">131 3D фрагмент_97 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                    </shadow>
+                  </value>
+                  <value name="FROM">
+                    <shadow type="math_number" id="Hvah1|WEu]a9q06Z76s}">
+                      <field name="NUM">0</field>
+                    </shadow>
+                  </value>
+                  <value name="TO">
+                    <shadow type="math_number" id="Yo7ldOatrIo#/OoFe{]t">
+                      <field name="NUM">50</field>
+                    </shadow>
+                  </value>
+                  <value name="SPEED">
+                    <shadow type="math_number" id="w]!63E+,xi!IwVtFt5.i">
+                      <field name="NUM">2</field>
+                    </shadow>
+                  </value>
+                  <statement name="DO">
+                    <block type="variables_set" id="cTXvNFQ!#=^I=[Q#D.Ng">
+                      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                      <value name="VALUE">
+                        <block type="logic_boolean" id="!.8O/v}VqA,6RSSid|g8">
+                          <field name="BOOL">FALSE</field>
+                        </block>
+                      </value>
+                    </block>
+                  </statement>
+                  <next>
+                    <block type="playAnimationAdv" id="T$9d:iKj@G~Unq5q.nV^">
+                      <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="true" enablewhenfinished="true"></mutation>
+                      <field name="REVERSED">FALSE</field>
+                      <field name="LOOP">LoopOnce</field>
+                      <value name="VALUE">
+                        <shadow type="animationList" id="qmyuhy^uH*vR)3$3g%qr">
+                          <field name="FIELDNAME">130 3D фрагмент_96 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                        </shadow>
+                      </value>
+                      <value name="FROM">
+                        <shadow type="math_number" id=".;5DZGLs/=s^9]9?*3K3">
+                          <field name="NUM">0</field>
+                        </shadow>
+                      </value>
+                      <value name="TO">
+                        <shadow type="math_number" id="pfZ_?;[y)2gbh6:zEFBJ">
+                          <field name="NUM">50</field>
+                        </shadow>
+                      </value>
+                      <value name="SPEED">
+                        <shadow type="math_number" id="GeB06i^X+3%~Fk*Evq9b">
+                          <field name="NUM">2</field>
+                        </shadow>
+                      </value>
+                      <statement name="DO">
+                        <block type="variables_set" id="R+:|9I]oh#trS=!pzsg[">
+                          <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                          <value name="VALUE">
+                            <block type="logic_boolean" id="Y:i9}/(i*]tUowX(y;(=">
+                              <field name="BOOL">FALSE</field>
+                            </block>
+                          </value>
+                        </block>
+                      </statement>
+                    </block>
+                  </next>
+                </block>
+              </statement>
+              <value name="IF1">
+                <block type="logic_compare" id=":Mx)s`+-88Dk.dWR{D,a">
+                  <field name="OP">EQ</field>
+                  <value name="A">
+                    <block type="variables_get" id="1VzTL~FAXn^m=1B!R-MO">
+                      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                    </block>
+                  </value>
+                  <value name="B">
+                    <block type="logic_boolean" id="$[NpX8tX2A]gw]%8wymE">
+                      <field name="BOOL">FALSE</field>
+                    </block>
+                  </value>
+                </block>
+              </value>
+              <statement name="DO1">
+                <block type="playAnimationAdv" id="(!g:)[vFMAc0u7MpYNhD">
+                  <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="true" enablewhenfinished="true"></mutation>
+                  <field name="REVERSED">TRUE</field>
+                  <field name="LOOP">LoopOnce</field>
+                  <value name="VALUE">
+                    <shadow type="animationList" id="[zGCsoiHj.6bU#Q#4XN4">
+                      <field name="FIELDNAME">130 3D фрагмент_96 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                    </shadow>
+                  </value>
+                  <value name="FROM">
+                    <shadow type="math_number" id="BYk#;g5H400EaK,)A`vD">
+                      <field name="NUM">0</field>
+                    </shadow>
+                  </value>
+                  <value name="TO">
+                    <shadow type="math_number" id="Hh1:+JAHx2(M@HS5**jw">
+                      <field name="NUM">50</field>
+                    </shadow>
+                  </value>
+                  <value name="SPEED">
+                    <shadow type="math_number" id="`Nhr6=`d2T@3Q$A~}U8O">
+                      <field name="NUM">2</field>
+                    </shadow>
+                  </value>
+                  <statement name="DO">
+                    <block type="variables_set" id="rGG_O!Nm#i@niH){$k#}">
+                      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                      <value name="VALUE">
+                        <block type="logic_boolean" id="WaDtsG^w`zj$V~!s*_Lb">
+                          <field name="BOOL">TRUE</field>
+                        </block>
+                      </value>
+                    </block>
+                  </statement>
+                  <next>
+                    <block type="playAnimationAdv" id="Rud*lcKR3/p@E]aWLTLC">
+                      <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="true" enablewhenfinished="true"></mutation>
+                      <field name="REVERSED">TRUE</field>
+                      <field name="LOOP">LoopOnce</field>
+                      <value name="VALUE">
+                        <shadow type="animationList" id="2lIx$8!N2}o?d?T{kd/z">
+                          <field name="FIELDNAME">131 3D фрагмент_97 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                        </shadow>
+                      </value>
+                      <value name="FROM">
+                        <shadow type="math_number" id="9=OwDv%!XY*J+0~,n1$!">
+                          <field name="NUM">0</field>
+                        </shadow>
+                      </value>
+                      <value name="TO">
+                        <shadow type="math_number" id="L6y:^=jx,45q5:-uVw2B">
+                          <field name="NUM">50</field>
+                        </shadow>
+                      </value>
+                      <value name="SPEED">
+                        <shadow type="math_number" id="]vqYuSCl-G4pWt8.?9OA">
+                          <field name="NUM">2</field>
+                        </shadow>
+                      </value>
+                      <statement name="DO">
+                        <block type="variables_set" id="cQ5Vq{%zeTK?cr}ALJ@;">
+                          <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                          <value name="VALUE">
+                            <block type="logic_boolean" id=",WD#-vKO,^Lx++YQF^~z">
+                              <field name="BOOL">TRUE</field>
+                            </block>
+                          </value>
+                        </block>
+                      </statement>
+                    </block>
+                  </next>
+                </block>
+              </statement>
+            </block>
+          </statement>
+          <next>
+            <block type="variables_set" id="t7,u--tXfk7@:26ap.,n">
+              <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+              <value name="VALUE">
+                <block type="logic_boolean" id="hF6a]hl*fg(]+*3,GG(c">
+                  <field name="BOOL">TRUE</field>
+                </block>
+              </value>
+              <next>
+                <block type="whenClicked" id="fteEiguIlDW!TlguBDA8" inline="false">
+                  <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+                  <field name="X_RAY">FALSE</field>
+                  <field name="DOUBLE_CLICK">FALSE</field>
+                  <field name="LEFT_BUTTON">TRUE</field>
+                  <field name="MIDDLE_BUTTON">TRUE</field>
+                  <field name="RIGHT_BUTTON">TRUE</field>
+                  <value name="VALUE">
+                    <shadow type="objectList" id="690SM5cz?XbFZ3AV+HH*">
+                      <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+                    </shadow>
+                    <block type="objectList" id="5/Nn2?;LRSRjQ%fh#oGe">
+                      <field name="FIELDNAME">131 3D фрагмент_97 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                    </block>
+                  </value>
+                  <statement name="DO">
+                    <block type="controls_if" id="o7d9v9}?Ii2:5UXo]%g]">
+                      <mutation elseif="1"></mutation>
+                      <value name="IF0">
+                        <block type="logic_compare" id="1V@xVo*hazFE=QUay#oM">
+                          <field name="OP">EQ</field>
+                          <value name="A">
+                            <block type="variables_get" id="`*`sDTRbizpG?q?qPs.j">
+                              <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                            </block>
+                          </value>
+                          <value name="B">
+                            <block type="logic_boolean" id="A1ne9B}Nj/.4KEo`U_k.">
+                              <field name="BOOL">TRUE</field>
+                            </block>
+                          </value>
+                        </block>
+                      </value>
+                      <statement name="DO0">
+                        <block type="playAnimationAdv" id="|!a#V4I?pS(*xJ!Ib@s[">
+                          <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="true" enablewhenfinished="true"></mutation>
+                          <field name="REVERSED">FALSE</field>
+                          <field name="LOOP">LoopOnce</field>
+                          <value name="VALUE">
+                            <shadow type="animationList" id="+%r;wu%Z-xh@4zK4RU6:">
+                              <field name="FIELDNAME">131 3D фрагмент_97 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                            </shadow>
+                          </value>
+                          <value name="FROM">
+                            <shadow type="math_number" id="CXvk)TiDE8{l+e_WcW@M">
+                              <field name="NUM">0</field>
+                            </shadow>
+                          </value>
+                          <value name="TO">
+                            <shadow type="math_number" id="+sKGJI;=x)Ya;Gpq0=o2">
+                              <field name="NUM">50</field>
+                            </shadow>
+                          </value>
+                          <value name="SPEED">
+                            <shadow type="math_number" id="4ZImUZ%{U9wsdBWMPf;n">
+                              <field name="NUM">2</field>
+                            </shadow>
+                          </value>
+                          <statement name="DO">
+                            <block type="variables_set" id="OY%u/vMhu8!J=i:L?XZ%">
+                              <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                              <value name="VALUE">
+                                <block type="logic_boolean" id="I+(mx-6eeK|70|j5WCRn">
+                                  <field name="BOOL">FALSE</field>
+                                </block>
+                              </value>
+                            </block>
+                          </statement>
+                          <next>
+                            <block type="playAnimationAdv" id="Ub_e4Ys|!#uY*F]dxjux">
+                              <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="true" enablewhenfinished="true"></mutation>
+                              <field name="REVERSED">FALSE</field>
+                              <field name="LOOP">LoopOnce</field>
+                              <value name="VALUE">
+                                <shadow type="animationList" id="BYfDA/{]^}Yi~L+7CG`A">
+                                  <field name="FIELDNAME">130 3D фрагмент_96 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                </shadow>
+                              </value>
+                              <value name="FROM">
+                                <shadow type="math_number" id="7jQa3*[HX2D^5iNsQ!LA">
+                                  <field name="NUM">0</field>
+                                </shadow>
+                              </value>
+                              <value name="TO">
+                                <shadow type="math_number" id=";A@SASp)J=q$#FO#*AcL">
+                                  <field name="NUM">50</field>
+                                </shadow>
+                              </value>
+                              <value name="SPEED">
+                                <shadow type="math_number" id=".+UfZJ.9gUCrjX8cDF7J">
+                                  <field name="NUM">2</field>
+                                </shadow>
+                              </value>
+                              <statement name="DO">
+                                <block type="variables_set" id="/%ahPTeb@g*%?#xcgEu$">
+                                  <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                                  <value name="VALUE">
+                                    <block type="logic_boolean" id="s+IJR`C.(3;0C?pg#0t@">
+                                      <field name="BOOL">FALSE</field>
+                                    </block>
+                                  </value>
+                                </block>
+                              </statement>
+                            </block>
+                          </next>
+                        </block>
+                      </statement>
+                      <value name="IF1">
+                        <block type="logic_compare" id="8xayFtGy7(z8354(8,p-">
+                          <field name="OP">EQ</field>
+                          <value name="A">
+                            <block type="variables_get" id="g*x[+UPZh!aEYX*l_}aI">
+                              <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                            </block>
+                          </value>
+                          <value name="B">
+                            <block type="logic_boolean" id="B~eF53:nM31C@~.n^^_M">
+                              <field name="BOOL">FALSE</field>
+                            </block>
+                          </value>
+                        </block>
+                      </value>
+                      <statement name="DO1">
+                        <block type="playAnimationAdv" id=",t1skbbh$/00*Kd]r3Wc">
+                          <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="true" enablewhenfinished="true"></mutation>
+                          <field name="REVERSED">TRUE</field>
+                          <field name="LOOP">LoopOnce</field>
+                          <value name="VALUE">
+                            <shadow type="animationList" id="Z?PFnoQO:{S[D5:lc9wK">
+                              <field name="FIELDNAME">130 3D фрагмент_96 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                            </shadow>
+                          </value>
+                          <value name="FROM">
+                            <shadow type="math_number" id="Kg|n@g_t.+29@@|ivSNO">
+                              <field name="NUM">0</field>
+                            </shadow>
+                          </value>
+                          <value name="TO">
+                            <shadow type="math_number" id="C%MFqjSVsw:pCngr5i0J">
+                              <field name="NUM">50</field>
+                            </shadow>
+                          </value>
+                          <value name="SPEED">
+                            <shadow type="math_number" id=":g:D[]@,`LK:8fR-kJ)@">
+                              <field name="NUM">2</field>
+                            </shadow>
+                          </value>
+                          <statement name="DO">
+                            <block type="variables_set" id="uu8=:~1l/=Mc3F(|Eeaj">
+                              <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                              <value name="VALUE">
+                                <block type="logic_boolean" id="7UARojPax[J1tP}2)ge1">
+                                  <field name="BOOL">TRUE</field>
+                                </block>
+                              </value>
+                            </block>
+                          </statement>
+                          <next>
+                            <block type="playAnimationAdv" id="NUYoHb39A4xR%;70*!=E">
+                              <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="true" enablewhenfinished="true"></mutation>
+                              <field name="REVERSED">TRUE</field>
+                              <field name="LOOP">LoopOnce</field>
+                              <value name="VALUE">
+                                <shadow type="animationList" id="tK?8)|Ps,L|!(+U#wa_p">
+                                  <field name="FIELDNAME">131 3D фрагмент_97 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                </shadow>
+                              </value>
+                              <value name="FROM">
+                                <shadow type="math_number" id="$t3g-lN0}i`T.XG.!@FN">
+                                  <field name="NUM">0</field>
+                                </shadow>
+                              </value>
+                              <value name="TO">
+                                <shadow type="math_number" id="Y)030D#+EL*||YIy3?/T">
+                                  <field name="NUM">50</field>
+                                </shadow>
+                              </value>
+                              <value name="SPEED">
+                                <shadow type="math_number" id="*Pt-k+nVG}6J0MB?s~6K">
+                                  <field name="NUM">2</field>
+                                </shadow>
+                              </value>
+                              <statement name="DO">
+                                <block type="variables_set" id="VlwJKc!$bfq,m%5J#vUM">
+                                  <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                                  <value name="VALUE">
+                                    <block type="logic_boolean" id="rD|C:Tx@Lk;Og?DpIsJ%">
+                                      <field name="BOOL">TRUE</field>
+                                    </block>
+                                  </value>
+                                </block>
+                              </statement>
+                            </block>
+                          </next>
+                        </block>
+                      </statement>
+                    </block>
+                  </statement>
+                </block>
+              </next>
+            </block>
+          </next>
+        </block>
+      </next>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="variables_set" id="%lD={]Jp))[)!^P`XDBg" x="-90" y="4150">
+      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+      <value name="VALUE">
+        <block type="logic_boolean" id="anbxUidy!w=b^(o$JHx.">
+          <field name="BOOL">TRUE</field>
+        </block>
+      </value>
+      <next>
+        <block type="whenClicked" id="G23r,8.bS#wYp_h{~R0)" inline="false">
+          <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+          <field name="X_RAY">FALSE</field>
+          <field name="DOUBLE_CLICK">FALSE</field>
+          <field name="LEFT_BUTTON">TRUE</field>
+          <field name="MIDDLE_BUTTON">TRUE</field>
+          <field name="RIGHT_BUTTON">TRUE</field>
+          <value name="VALUE">
+            <shadow type="objectList" id="690SM5cz?XbFZ3AV+HH*">
+              <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+            </shadow>
+            <block type="objectList" id="H1IO,F~$uQOpJT,F=Kd-">
+              <field name="FIELDNAME">55 3D фрагмент_44 (Assembly_21_grb (Lego_RallyCar_21_gr</field>
+            </block>
+          </value>
+          <statement name="DO">
+            <block type="controls_if" id="x1q|$|`[c-F$C+c]kLg?">
+              <mutation elseif="1"></mutation>
+              <value name="IF0">
+                <block type="logic_compare" id="*qd-o_v@S|!sS?InA$g]">
+                  <field name="OP">EQ</field>
+                  <value name="A">
+                    <block type="variables_get" id="BzkM-Qwo_$#I^yz)0waI">
+                      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                    </block>
+                  </value>
+                  <value name="B">
+                    <block type="logic_boolean" id="(II#G+SI%cMz.vSy_H#W">
+                      <field name="BOOL">TRUE</field>
+                    </block>
+                  </value>
+                </block>
+              </value>
+              <statement name="DO0">
+                <block type="playAnimationAdv" id="G_$vBu(B]C[/*jPVAzi#">
+                  <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="true" enablewhenfinished="true"></mutation>
+                  <field name="REVERSED">FALSE</field>
+                  <field name="LOOP">LoopOnce</field>
+                  <value name="VALUE">
+                    <shadow type="animationList" id="~$a!)R`E?cuPXqV=dcSd">
+                      <field name="FIELDNAME">55 3D фрагмент_44 (Assembly_21_grb (Lego_RallyCar_21_gr</field>
+                    </shadow>
+                  </value>
+                  <value name="FROM">
+                    <shadow type="math_number" id="M3HBQ!~L0_^P+:I{{lF/">
+                      <field name="NUM">0</field>
+                    </shadow>
+                  </value>
+                  <value name="TO">
+                    <shadow type="math_number" id="!{(S$,1=8:R?GkJ^*++)">
+                      <field name="NUM">50</field>
+                    </shadow>
+                  </value>
+                  <value name="SPEED">
+                    <shadow type="math_number" id="aZc!5^Vs$*?ViQqQ*pA6">
+                      <field name="NUM">10</field>
+                    </shadow>
+                  </value>
+                  <statement name="DO">
+                    <block type="variables_set" id="4$Q;EmI$Tfg_z^i:Z.Dz">
+                      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                      <value name="VALUE">
+                        <block type="logic_boolean" id="?YSFj)iZdoo@[19:*H,)">
+                          <field name="BOOL">FALSE</field>
+                        </block>
+                      </value>
+                    </block>
+                  </statement>
+                </block>
+              </statement>
+              <value name="IF1">
+                <block type="logic_compare" id="bZYB@JF_Et^qWLN;bviy">
+                  <field name="OP">EQ</field>
+                  <value name="A">
+                    <block type="variables_get" id=")oTWU}MJ1a9x$Gp,:Ii[">
+                      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                    </block>
+                  </value>
+                  <value name="B">
+                    <block type="logic_boolean" id="TKE$p,Qzl},SzDlNq5hW">
+                      <field name="BOOL">FALSE</field>
+                    </block>
+                  </value>
+                </block>
+              </value>
+              <statement name="DO1">
+                <block type="playAnimationAdv" id="6NhwUD+.@=eAc_Z8BWMd">
+                  <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="true" enablewhenfinished="true"></mutation>
+                  <field name="REVERSED">TRUE</field>
+                  <field name="LOOP">LoopOnce</field>
+                  <value name="VALUE">
+                    <shadow type="animationList" id="kb5+hLM8yzDrUc3i1t3t">
+                      <field name="FIELDNAME">55 3D фрагмент_44 (Assembly_21_grb (Lego_RallyCar_21_gr</field>
+                    </shadow>
+                  </value>
+                  <value name="FROM">
+                    <shadow type="math_number" id="d}e*qmD(cQr8}SNelJsV">
+                      <field name="NUM">0</field>
+                    </shadow>
+                  </value>
+                  <value name="TO">
+                    <shadow type="math_number" id="oB0gj_GdB5+|2HlDof39">
+                      <field name="NUM">50</field>
+                    </shadow>
+                  </value>
+                  <value name="SPEED">
+                    <shadow type="math_number" id="fh5kRgIM:72dPnT%HC+`">
+                      <field name="NUM">10</field>
+                    </shadow>
+                  </value>
+                  <statement name="DO">
+                    <block type="variables_set" id="u%?M[~T~1EBp,f.?N+i(">
+                      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                      <value name="VALUE">
+                        <block type="logic_boolean" id="mz!POO*_cX//MNU{PiW+">
+                          <field name="BOOL">TRUE</field>
+                        </block>
+                      </value>
+                    </block>
+                  </statement>
+                </block>
+              </statement>
+            </block>
+          </statement>
+          <next>
+            <block type="variables_set" id=";sd[}DT{odZ+ph;Nqk$u">
+              <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+              <value name="VALUE">
+                <block type="logic_boolean" id="@]n5UD:O6-{ErYlay}_Q">
+                  <field name="BOOL">TRUE</field>
+                </block>
+              </value>
+              <next>
+                <block type="whenClicked" id="4seXc-0pKIpv}|ru:%gm" inline="false">
+                  <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+                  <field name="X_RAY">FALSE</field>
+                  <field name="DOUBLE_CLICK">FALSE</field>
+                  <field name="LEFT_BUTTON">TRUE</field>
+                  <field name="MIDDLE_BUTTON">TRUE</field>
+                  <field name="RIGHT_BUTTON">TRUE</field>
+                  <value name="VALUE">
+                    <shadow type="objectList" id="690SM5cz?XbFZ3AV+HH*">
+                      <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+                    </shadow>
+                    <block type="objectList" id="N2#x42`;UE-pJ[:V=R+P">
+                      <field name="FIELDNAME">57 Симметрия_13</field>
+                    </block>
+                  </value>
+                  <statement name="DO">
+                    <block type="controls_if" id="^xdkfeCYPJ(Di]KN2j-q">
+                      <mutation elseif="1"></mutation>
+                      <value name="IF0">
+                        <block type="logic_compare" id="/O#c%8E`kv6667Mov2);">
+                          <field name="OP">EQ</field>
+                          <value name="A">
+                            <block type="variables_get" id="#M$iSF?##5h84]/tvDJh">
+                              <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                            </block>
+                          </value>
+                          <value name="B">
+                            <block type="logic_boolean" id="UJ8[W+O.P;5tlOaf0H~H">
+                              <field name="BOOL">TRUE</field>
+                            </block>
+                          </value>
+                        </block>
+                      </value>
+                      <statement name="DO0">
+                        <block type="playAnimationAdv" id="_fy.!zzI0zgR(o78]W-7">
+                          <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="true" enablewhenfinished="true"></mutation>
+                          <field name="REVERSED">FALSE</field>
+                          <field name="LOOP">LoopOnce</field>
+                          <value name="VALUE">
+                            <shadow type="animationList" id="%rP]V~$Xt/h=~BK|ih-=">
+                              <field name="FIELDNAME">57 Симметрия_13</field>
+                            </shadow>
+                          </value>
+                          <value name="FROM">
+                            <shadow type="math_number" id="*7g3Y7C85^2$tf,%/`Us">
+                              <field name="NUM">0</field>
+                            </shadow>
+                          </value>
+                          <value name="TO">
+                            <shadow type="math_number" id="3Q?|YegKN}:7`txWHwS-">
+                              <field name="NUM">50</field>
+                            </shadow>
+                          </value>
+                          <value name="SPEED">
+                            <shadow type="math_number" id=":%Jll29LUW]-Z~b#}F^O">
+                              <field name="NUM">10</field>
+                            </shadow>
+                          </value>
+                          <statement name="DO">
+                            <block type="variables_set" id="mEI!oDh:9_Ssy1)g32_a">
+                              <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                              <value name="VALUE">
+                                <block type="logic_boolean" id=";sDwOv`gQ@9z|9!n5Wo:">
+                                  <field name="BOOL">FALSE</field>
+                                </block>
+                              </value>
+                            </block>
+                          </statement>
+                        </block>
+                      </statement>
+                      <value name="IF1">
+                        <block type="logic_compare" id="KPtU^GqTlk@lM}x?6uwf">
+                          <field name="OP">EQ</field>
+                          <value name="A">
+                            <block type="variables_get" id="83S`;vE(2{/k(;%%`Y5J">
+                              <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                            </block>
+                          </value>
+                          <value name="B">
+                            <block type="logic_boolean" id="OH8~uy!_%btXvbiH~k1.">
+                              <field name="BOOL">FALSE</field>
+                            </block>
+                          </value>
+                        </block>
+                      </value>
+                      <statement name="DO1">
+                        <block type="playAnimationAdv" id="0a#Shc%5Wc1KCzH!B7Rw">
+                          <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="true" enablewhenfinished="true"></mutation>
+                          <field name="REVERSED">TRUE</field>
+                          <field name="LOOP">LoopOnce</field>
+                          <value name="VALUE">
+                            <shadow type="animationList" id="WL[|s~89`1RXkYhJ.o#%">
+                              <field name="FIELDNAME">57 Симметрия_13</field>
+                            </shadow>
+                          </value>
+                          <value name="FROM">
+                            <shadow type="math_number" id="AMCZ5AX1O:;YcV}Zk1TK">
+                              <field name="NUM">0</field>
+                            </shadow>
+                          </value>
+                          <value name="TO">
+                            <shadow type="math_number" id="lA.mT,6go$gmKCiUPyFg">
+                              <field name="NUM">50</field>
+                            </shadow>
+                          </value>
+                          <value name="SPEED">
+                            <shadow type="math_number" id="bf:nZk2cu,eIk@eKj_(`">
+                              <field name="NUM">10</field>
+                            </shadow>
+                          </value>
+                          <statement name="DO">
+                            <block type="variables_set" id="~In]ouE4kOS`)?Rh*x5I">
+                              <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                              <value name="VALUE">
+                                <block type="logic_boolean" id="eE*/f:@H0me7Mj8eE2cn">
+                                  <field name="BOOL">TRUE</field>
+                                </block>
+                              </value>
+                            </block>
+                          </statement>
+                        </block>
+                      </statement>
+                    </block>
+                  </statement>
+                </block>
+              </next>
+            </block>
+          </next>
+        </block>
+      </next>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="variables_set" id="+F#FpMY(AEp(u$biG8@a" x="-90" y="4810">
+      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+      <value name="VALUE">
+        <block type="logic_boolean" id="cyD@ez4}DA!B[X9a4[;9">
+          <field name="BOOL">TRUE</field>
+        </block>
+      </value>
+      <next>
+        <block type="whenClicked" id="yR?Xyykp`;/1j@sx0+g|" inline="false">
+          <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+          <field name="X_RAY">FALSE</field>
+          <field name="DOUBLE_CLICK">FALSE</field>
+          <field name="LEFT_BUTTON">TRUE</field>
+          <field name="MIDDLE_BUTTON">TRUE</field>
+          <field name="RIGHT_BUTTON">TRUE</field>
+          <value name="VALUE">
+            <shadow type="objectList" id="690SM5cz?XbFZ3AV+HH*">
+              <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+            </shadow>
+            <block type="objectList" id="*.|J$k[NB:3a_IkbK9ru">
+              <field name="FIELDNAME">122 3D фрагмент_90 (Assembly_52_grb (Lego_RallyCar_52_g</field>
+            </block>
+          </value>
+          <statement name="DO">
+            <block type="controls_if" id=":Un]^BfbfIST6@BV)=_P">
+              <mutation elseif="1"></mutation>
+              <value name="IF0">
+                <block type="logic_compare" id="bspIvQ=:N=ks|]Cqhi}g">
+                  <field name="OP">EQ</field>
+                  <value name="A">
+                    <block type="variables_get" id=":Ri^1T$*Vv6@Qf-::^WA">
+                      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                    </block>
+                  </value>
+                  <value name="B">
+                    <block type="logic_boolean" id="e*jIxY`m-.^!$tBiaye4">
+                      <field name="BOOL">TRUE</field>
+                    </block>
+                  </value>
+                </block>
+              </value>
+              <statement name="DO0">
+                <block type="playAnimationAdv" id="4@YO*ZKjqkx!dS^Pb|*c">
+                  <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="true" enablewhenfinished="true"></mutation>
+                  <field name="REVERSED">FALSE</field>
+                  <field name="LOOP">LoopOnce</field>
+                  <value name="VALUE">
+                    <shadow type="animationList" id="$mQ|}_4WPiV5-w2k[gT.">
+                      <field name="FIELDNAME">122 3D фрагмент_90 (Assembly_52_grb (Lego_RallyCar_52_g</field>
+                    </shadow>
+                  </value>
+                  <value name="FROM">
+                    <shadow type="math_number" id="voa6trUzc-Q].dI$dkmw">
+                      <field name="NUM">0</field>
+                    </shadow>
+                  </value>
+                  <value name="TO">
+                    <shadow type="math_number" id="je;}%61]}Z}[}NbATPcm">
+                      <field name="NUM">50</field>
+                    </shadow>
+                  </value>
+                  <value name="SPEED">
+                    <shadow type="math_number" id="u3*Ri[`O(}3TGYvMPaM)">
+                      <field name="NUM">10</field>
+                    </shadow>
+                  </value>
+                  <statement name="DO">
+                    <block type="variables_set" id="%P3C+`TFVs||COK|Il8O">
+                      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                      <value name="VALUE">
+                        <block type="logic_boolean" id="4W%Ys%/z`c!+c[Wx4fQ$">
+                          <field name="BOOL">FALSE</field>
+                        </block>
+                      </value>
+                    </block>
+                  </statement>
+                </block>
+              </statement>
+              <value name="IF1">
+                <block type="logic_compare" id="97|--T+yPXSnt/8{C-gz">
+                  <field name="OP">EQ</field>
+                  <value name="A">
+                    <block type="variables_get" id="EK{JKU;LSunwl.glDUd{">
+                      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                    </block>
+                  </value>
+                  <value name="B">
+                    <block type="logic_boolean" id="-8{McbNNpby}rYt--GZL">
+                      <field name="BOOL">FALSE</field>
+                    </block>
+                  </value>
+                </block>
+              </value>
+              <statement name="DO1">
+                <block type="playAnimationAdv" id="eRuPcoJ^3GQj1}iikz3i">
+                  <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="true" enablewhenfinished="true"></mutation>
+                  <field name="REVERSED">TRUE</field>
+                  <field name="LOOP">LoopOnce</field>
+                  <value name="VALUE">
+                    <shadow type="animationList" id="f1X*Y}~]FpP.o.6f#HxJ">
+                      <field name="FIELDNAME">122 3D фрагмент_90 (Assembly_52_grb (Lego_RallyCar_52_g</field>
+                    </shadow>
+                  </value>
+                  <value name="FROM">
+                    <shadow type="math_number" id="sQY:6{;`e60U]TZ%t(Y{">
+                      <field name="NUM">0</field>
+                    </shadow>
+                  </value>
+                  <value name="TO">
+                    <shadow type="math_number" id="~F{fe{.6.o]yA(6?SNDQ">
+                      <field name="NUM">50</field>
+                    </shadow>
+                  </value>
+                  <value name="SPEED">
+                    <shadow type="math_number" id="NXDNbm0znXd?C~m%DBGu">
+                      <field name="NUM">10</field>
+                    </shadow>
+                  </value>
+                  <statement name="DO">
+                    <block type="variables_set" id="2_J/rnEBKA(xSkvd%:U;">
+                      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                      <value name="VALUE">
+                        <block type="logic_boolean" id="?wk7;tcIad(|z5Zas7|P">
+                          <field name="BOOL">TRUE</field>
+                        </block>
+                      </value>
+                    </block>
+                  </statement>
+                </block>
+              </statement>
+            </block>
+          </statement>
+        </block>
+      </next>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="variables_set" id="IZG2/@v|6;aqy9lAXN9+" x="-90" y="5170">
+      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+      <value name="VALUE">
+        <block type="logic_boolean" id="X49~k7{`CQVa;EZA]D2N">
+          <field name="BOOL">TRUE</field>
+        </block>
+      </value>
+      <next>
+        <block type="whenClicked" id="9r$FQX;RXPSL0(Zs:lYA" inline="false">
+          <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+          <field name="X_RAY">FALSE</field>
+          <field name="DOUBLE_CLICK">FALSE</field>
+          <field name="LEFT_BUTTON">TRUE</field>
+          <field name="MIDDLE_BUTTON">TRUE</field>
+          <field name="RIGHT_BUTTON">TRUE</field>
+          <value name="VALUE">
+            <shadow type="objectList" id="690SM5cz?XbFZ3AV+HH*">
+              <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+            </shadow>
+            <block type="objectList" id="Z#J9@+c+noWr|b~F~uf:">
+              <field name="FIELDNAME">96 3D фрагмент_72 (Parts_97_White_grb (Lego_RallyCar_97</field>
+            </block>
+          </value>
+          <statement name="DO">
+            <block type="controls_if" id="u+U#|e^6;VJUzTO2amKz">
+              <mutation elseif="1"></mutation>
+              <value name="IF0">
+                <block type="logic_compare" id="b)In@}6J20~YOYL-X2QW">
+                  <field name="OP">EQ</field>
+                  <value name="A">
+                    <block type="variables_get" id="OE{P^QyhO?v:(S!KB:hh">
+                      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                    </block>
+                  </value>
+                  <value name="B">
+                    <block type="logic_boolean" id="3c%ogmnKSk_9dZq~pa3j">
+                      <field name="BOOL">TRUE</field>
+                    </block>
+                  </value>
+                </block>
+              </value>
+              <statement name="DO0">
+                <block type="playAnimationAdv" id="G!W!*n}U%k|+5Ei,WwuI">
+                  <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="true" enablewhenfinished="true"></mutation>
+                  <field name="REVERSED">FALSE</field>
+                  <field name="LOOP">LoopOnce</field>
+                  <value name="VALUE">
+                    <shadow type="animationList" id="v(iRNrTrM~Xx=j5GZI{]">
+                      <field name="FIELDNAME">96 3D фрагмент_72 (Parts_97_White_grb (Lego_RallyCar_97</field>
+                    </shadow>
+                  </value>
+                  <value name="FROM">
+                    <shadow type="math_number" id="Lzu}M;0zfS/p:[q(-}h5">
+                      <field name="NUM">0</field>
+                    </shadow>
+                  </value>
+                  <value name="TO">
+                    <shadow type="math_number" id="MU`l80.Fn$Y.`0wOe(Qp">
+                      <field name="NUM">50</field>
+                    </shadow>
+                  </value>
+                  <value name="SPEED">
+                    <shadow type="math_number" id=",R0GI~/bBWM:UPU4z^5G">
+                      <field name="NUM">10</field>
+                    </shadow>
+                  </value>
+                  <statement name="DO">
+                    <block type="variables_set" id=",M;~RM)mCS`E(:lCEmI=">
+                      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                      <value name="VALUE">
+                        <block type="logic_boolean" id="eiEp3aG,0(JAG@X303sU">
+                          <field name="BOOL">FALSE</field>
+                        </block>
+                      </value>
+                    </block>
+                  </statement>
+                </block>
+              </statement>
+              <value name="IF1">
+                <block type="logic_compare" id="yMV|`pv}uYlJ%d2=f5xx">
+                  <field name="OP">EQ</field>
+                  <value name="A">
+                    <block type="variables_get" id="i1]iM/GE=jTSt:j0!}#w">
+                      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                    </block>
+                  </value>
+                  <value name="B">
+                    <block type="logic_boolean" id="p~OWb,}_=D:#s%lFk%/_">
+                      <field name="BOOL">FALSE</field>
+                    </block>
+                  </value>
+                </block>
+              </value>
+              <statement name="DO1">
+                <block type="playAnimationAdv" id="Li7a,ka3SR=:$SuW|wR!">
+                  <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="true" enablewhenfinished="true"></mutation>
+                  <field name="REVERSED">TRUE</field>
+                  <field name="LOOP">LoopOnce</field>
+                  <value name="VALUE">
+                    <shadow type="animationList" id="l/`F(H:5G;It38=RR2rX">
+                      <field name="FIELDNAME">96 3D фрагмент_72 (Parts_97_White_grb (Lego_RallyCar_97</field>
+                    </shadow>
+                  </value>
+                  <value name="FROM">
+                    <shadow type="math_number" id="$xg.%V37k;3~11FYgA5v">
+                      <field name="NUM">0</field>
+                    </shadow>
+                  </value>
+                  <value name="TO">
+                    <shadow type="math_number" id="S)X1Gd2+D$gMN}da+-A%">
+                      <field name="NUM">50</field>
+                    </shadow>
+                  </value>
+                  <value name="SPEED">
+                    <shadow type="math_number" id="]w75+mOryKVsNIO+7/dj">
+                      <field name="NUM">10</field>
+                    </shadow>
+                  </value>
+                  <statement name="DO">
+                    <block type="variables_set" id="pR}HpNEB9#ChJX%M88/a">
+                      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+                      <value name="VALUE">
+                        <block type="logic_boolean" id="i$@yMp+ezvofL)g=1Ut!">
+                          <field name="BOOL">TRUE</field>
+                        </block>
+                      </value>
+                    </block>
+                  </statement>
+                </block>
+              </statement>
+            </block>
+          </statement>
+        </block>
+      </next>
+    </block>
+  </tab>
+  <editorsettings viewport-x="232.16365890502925" viewport-y="386.9997663497925" viewport-w="495.454" viewport-h="447.898" viewport-hidden="true" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>

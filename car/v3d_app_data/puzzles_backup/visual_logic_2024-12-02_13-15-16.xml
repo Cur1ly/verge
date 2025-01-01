@@ -1,0 +1,867 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="Init" type="InitTab" active="false" scrollx="64.60820032704487" scrolly="0" scale="0.6665845324388844"></tab>
+  <tab name="New Tab" type="CommonTab" active="true" scrollx="357.75122201610844" scrolly="-1446.8452944455712" scale="0.7012873581535486">
+    <variables xmlns="https://developers.google.com/blockly/xml">
+      <variable id="C$h_,TqVy^vr8NdL~VeO">car</variable>
+    </variables>
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenHovered" id="OoGonWM?48*eBf)weJ|h" inline="false" x="-30" y="70">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="-tn!NM9qPL9xM9+xMP*p">
+          <field name="FIELDNAME">122 3D фрагмент_90 (Assembly_52_grb (Lego_RallyCar_52_g</field>
+        </shadow>
+      </value>
+      <statement name="DO_OVER">
+        <block type="addAnnotation" id="1`8oaDZ@IKHDVX{H^$w.">
+          <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+          <value name="ANNOTATION">
+            <shadow type="text" id="kpPy1m:%bt35|T.S,]7B">
+              <field name="TEXT">Багажник</field>
+            </shadow>
+          </value>
+          <value name="TARGET">
+            <shadow type="objectList" id="D3V8X1=~GCy;%,UDJ3*a">
+              <field name="FIELDNAME">122 3D фрагмент_90 (Assembly_52_grb (Lego_RallyCar_52_g</field>
+            </shadow>
+          </value>
+          <value name="CONTENTS">
+            <shadow type="text" id="zI[o-{8P2Uo0-mw2ACs#">
+              <field name="TEXT"></field>
+            </shadow>
+          </value>
+          <value name="ID">
+            <shadow type="text" id=":n9pTHW9:%!{x^Zt0S_4">
+              <field name="TEXT">PD</field>
+            </shadow>
+          </value>
+          <next>
+            <block type="outline" id=".PQ]ThDtjbA:f#fOhu-`">
+              <field name="DO_WHAT">ENABLE</field>
+              <value name="TARGET">
+                <shadow type="objectList" id="%b|TCNe[l}P-!wBwvo1H">
+                  <field name="FIELDNAME">122 3D фрагмент_90 (Assembly_52_grb (Lego_RallyCar_52_g</field>
+                </shadow>
+              </value>
+            </block>
+          </next>
+        </block>
+      </statement>
+      <statement name="DO_OUT">
+        <block type="removeAnnotation" id="ciNP4*1DAL)qk3[ps-;6">
+          <value name="TARGET">
+            <shadow type="objectList" id="qS!:r`a?v?VPr~DN(4Z$">
+              <field name="FIELDNAME">122 3D фрагмент_90 (Assembly_52_grb (Lego_RallyCar_52_g</field>
+            </shadow>
+          </value>
+          <next>
+            <block type="outline" id="-187OLcp/|m!abpVTH?j">
+              <field name="DO_WHAT">DISABLE</field>
+              <value name="TARGET">
+                <shadow type="objectList" id="UL`ZTr)}579}~-|EI_Xn">
+                  <field name="FIELDNAME">122 3D фрагмент_90 (Assembly_52_grb (Lego_RallyCar_52_g</field>
+                </shadow>
+              </value>
+            </block>
+          </next>
+        </block>
+      </statement>
+      <next>
+        <block type="whenHovered" id="V/Ql9b8l*P=Yv4g-aXpF" inline="false">
+          <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+          <field name="X_RAY">FALSE</field>
+          <value name="VALUE">
+            <shadow type="objectList" id=",,/m7F4Eq$mS_n8}Pq=D">
+              <field name="FIELDNAME">96 3D фрагмент_72 (Parts_97_White_grb (Lego_RallyCar_97</field>
+            </shadow>
+          </value>
+          <statement name="DO_OVER">
+            <block type="addAnnotation" id="{8b3$h(`@l=I#T^8_hP2">
+              <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+              <value name="ANNOTATION">
+                <shadow type="text" id="C:])%S[N*lq?==i/.Hy^">
+                  <field name="TEXT">Капот</field>
+                </shadow>
+              </value>
+              <value name="TARGET">
+                <shadow type="objectList" id="x#BgLKC*c$RndoEZU8tt">
+                  <field name="FIELDNAME">96 3D фрагмент_72 (Parts_97_White_grb (Lego_RallyCar_97</field>
+                </shadow>
+              </value>
+              <value name="CONTENTS">
+                <shadow type="text" id="4th(A=qrvs5lk8[E=RlS">
+                  <field name="TEXT"></field>
+                </shadow>
+              </value>
+              <value name="ID">
+                <shadow type="text" id="?mvz_!6~6GiqMB}gx]u:">
+                  <field name="TEXT">PD</field>
+                </shadow>
+              </value>
+              <next>
+                <block type="outline" id="akZ[B)r-;VF]E^WpO^~j">
+                  <field name="DO_WHAT">ENABLE</field>
+                  <value name="TARGET">
+                    <shadow type="objectList" id="W/yW?iyMMe?,ctCN-{;R">
+                      <field name="FIELDNAME">96 3D фрагмент_72 (Parts_97_White_grb (Lego_RallyCar_97</field>
+                    </shadow>
+                  </value>
+                </block>
+              </next>
+            </block>
+          </statement>
+          <statement name="DO_OUT">
+            <block type="removeAnnotation" id="JdmhkEp3o@ClV!^vytgA">
+              <value name="TARGET">
+                <shadow type="objectList" id="Tl1kA5!SZRNHX#=qE/xO">
+                  <field name="FIELDNAME">96 3D фрагмент_72 (Parts_97_White_grb (Lego_RallyCar_97</field>
+                </shadow>
+              </value>
+              <next>
+                <block type="outline" id="22ixhQe:nKLd9PSD}gT^">
+                  <field name="DO_WHAT">DISABLE</field>
+                  <value name="TARGET">
+                    <shadow type="objectList" id="xu1U-t$_[Q[DIBz%hq+E">
+                      <field name="FIELDNAME">96 3D фрагмент_72 (Parts_97_White_grb (Lego_RallyCar_97</field>
+                    </shadow>
+                  </value>
+                </block>
+              </next>
+            </block>
+          </statement>
+          <next>
+            <block type="whenHovered" id="M6ElY9A4X0oyKV/wkZBY" inline="false">
+              <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+              <field name="X_RAY">FALSE</field>
+              <value name="VALUE">
+                <shadow type="objectList" id="MlV!7_Qz=(=,d}S1EN!Q">
+                  <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+                </shadow>
+              </value>
+              <statement name="DO_OVER">
+                <block type="addAnnotation" id="lVSH7q;,dfC98;OUUWMS">
+                  <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+                  <value name="ANNOTATION">
+                    <shadow type="text" id="ADqv2#_N9YHiz_)zYwD;">
+                      <field name="TEXT">Правая дверь</field>
+                    </shadow>
+                  </value>
+                  <value name="TARGET">
+                    <shadow type="objectList" id="j!VglU,,]+6{[5YyEd`d">
+                      <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+                    </shadow>
+                  </value>
+                  <value name="CONTENTS">
+                    <shadow type="text" id="FcP42Aii}UAA~AZ49rg^">
+                      <field name="TEXT"></field>
+                    </shadow>
+                  </value>
+                  <value name="ID">
+                    <shadow type="text" id="%jyl2wNy|_Bdu[,AZ)@e">
+                      <field name="TEXT">PD</field>
+                    </shadow>
+                  </value>
+                  <next>
+                    <block type="outline" id="TdJc#bQGQ~nsbJNuf*v(">
+                      <field name="DO_WHAT">ENABLE</field>
+                      <value name="TARGET">
+                        <shadow type="objectList" id="6hbj7xW@6O!r$2eULfk8">
+                          <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+                        </shadow>
+                      </value>
+                    </block>
+                  </next>
+                </block>
+              </statement>
+              <statement name="DO_OUT">
+                <block type="removeAnnotation" id="?~9V#$Je7=x#WTxg^#GT">
+                  <value name="TARGET">
+                    <shadow type="objectList" id="R_csVHO9}fkJqeOFYs6R">
+                      <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+                    </shadow>
+                  </value>
+                  <next>
+                    <block type="outline" id="nfcOxr?8fUs,VBM4if;[">
+                      <field name="DO_WHAT">DISABLE</field>
+                      <value name="TARGET">
+                        <shadow type="objectList" id="oT:6wcE|w-Y8}IxxzAag">
+                          <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+                        </shadow>
+                      </value>
+                    </block>
+                  </next>
+                </block>
+              </statement>
+              <next>
+                <block type="whenHovered" id="1Y9nj;`;jx:=A22|_tP@" inline="false">
+                  <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+                  <field name="X_RAY">FALSE</field>
+                  <value name="VALUE">
+                    <shadow type="objectList" id="1Q+flIAJtOAV$]*xc9if">
+                      <field name="FIELDNAME">110 3D фрагмент_83 (Assembly_46_grb (Lego_RallyCar_46_g</field>
+                    </shadow>
+                  </value>
+                  <statement name="DO_OVER">
+                    <block type="addAnnotation" id="9SM|!V2@ati%XFuUoA:.">
+                      <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+                      <value name="ANNOTATION">
+                        <shadow type="text" id="D+Wde5N+02p(PgA(hmHh">
+                          <field name="TEXT">Левая дверь</field>
+                        </shadow>
+                      </value>
+                      <value name="TARGET">
+                        <shadow type="objectList" id="i:_Se3N#,9S(U)vMs;g3">
+                          <field name="FIELDNAME">110 3D фрагмент_83 (Assembly_46_grb (Lego_RallyCar_46_g</field>
+                        </shadow>
+                      </value>
+                      <value name="CONTENTS">
+                        <shadow type="text" id="?KUZ~rI]?0Mbn3oHT/jf">
+                          <field name="TEXT"></field>
+                        </shadow>
+                      </value>
+                      <value name="ID">
+                        <shadow type="text" id="6N=mJ}Z[Pj*)j$DNvMei">
+                          <field name="TEXT">PD</field>
+                        </shadow>
+                      </value>
+                      <next>
+                        <block type="outline" id="Zt,[=MU5/thdB_{L]F;w">
+                          <field name="DO_WHAT">ENABLE</field>
+                          <value name="TARGET">
+                            <shadow type="objectList" id="xA!ZFm(7hDMR8IBq(J/B">
+                              <field name="FIELDNAME">110 3D фрагмент_83 (Assembly_46_grb (Lego_RallyCar_46_g</field>
+                            </shadow>
+                          </value>
+                        </block>
+                      </next>
+                    </block>
+                  </statement>
+                  <statement name="DO_OUT">
+                    <block type="removeAnnotation" id="=laowp}/eaWjCR!+CO?0">
+                      <value name="TARGET">
+                        <shadow type="objectList" id="uB0Up8h5,.PH5+RZkPG)">
+                          <field name="FIELDNAME">110 3D фрагмент_83 (Assembly_46_grb (Lego_RallyCar_46_g</field>
+                        </shadow>
+                      </value>
+                      <next>
+                        <block type="outline" id="#I2QZkOxSlB{/_bG{s|J">
+                          <field name="DO_WHAT">DISABLE</field>
+                          <value name="TARGET">
+                            <shadow type="objectList" id=".atnQ@?P.)Vqw$,646Wl">
+                              <field name="FIELDNAME">110 3D фрагмент_83 (Assembly_46_grb (Lego_RallyCar_46_g</field>
+                            </shadow>
+                          </value>
+                        </block>
+                      </next>
+                    </block>
+                  </statement>
+                  <next>
+                    <block type="whenHovered" id="irf*$Wi8G~q%i5qZDk$N" inline="false">
+                      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+                      <field name="X_RAY">FALSE</field>
+                      <value name="VALUE">
+                        <shadow type="objectList" id="`1gDi+S1LLkiAzL1*@oZ">
+                          <field name="FIELDNAME">130 3D фрагмент_96 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                        </shadow>
+                      </value>
+                      <statement name="DO_OVER">
+                        <block type="addAnnotation" id="|_O[#!Ip]Bd:0s*z=}vY">
+                          <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+                          <value name="ANNOTATION">
+                            <shadow type="text" id="wc2E;9U`3n]P#cZ|PhgZ">
+                              <field name="TEXT">Левое колесо</field>
+                            </shadow>
+                          </value>
+                          <value name="TARGET">
+                            <shadow type="objectList" id="g9C~dFr;Bah5Qz,!:))t">
+                              <field name="FIELDNAME">130 3D фрагмент_96 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                            </shadow>
+                          </value>
+                          <value name="CONTENTS">
+                            <shadow type="text" id="=z`s5uNZ(ja[|YI3(8}]">
+                              <field name="TEXT"></field>
+                            </shadow>
+                          </value>
+                          <value name="ID">
+                            <shadow type="text" id="+Aq0ALt`F,ufF9~5g`1O">
+                              <field name="TEXT">PD</field>
+                            </shadow>
+                          </value>
+                          <next>
+                            <block type="addAnnotation" id="0MYaRk?!+uoV0|U=zd[4">
+                              <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+                              <value name="ANNOTATION">
+                                <shadow type="text" id="D{;|y%9`a`-WToRzx*(C">
+                                  <field name="TEXT">Правое колесо</field>
+                                </shadow>
+                              </value>
+                              <value name="TARGET">
+                                <shadow type="objectList" id="Mw!lEKlJZY|ig7,*GG07">
+                                  <field name="FIELDNAME">131 3D фрагмент_97 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                </shadow>
+                              </value>
+                              <value name="CONTENTS">
+                                <shadow type="text" id="J,R,y`v7d3#E-n6GwQfF">
+                                  <field name="TEXT"></field>
+                                </shadow>
+                              </value>
+                              <value name="ID">
+                                <shadow type="text" id="DOmXyS`=?]bE6E.9v|tS">
+                                  <field name="TEXT">PD</field>
+                                </shadow>
+                              </value>
+                              <next>
+                                <block type="outline" id="7IDT*Di?(.tzCfLxjGcA">
+                                  <field name="DO_WHAT">ENABLE</field>
+                                  <value name="TARGET">
+                                    <shadow type="objectList" id="]B=uwD,n?Ct$/KUPTlC7">
+                                      <field name="FIELDNAME">130 3D фрагмент_96 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                    </shadow>
+                                  </value>
+                                  <next>
+                                    <block type="outline" id="SrO^Q)GH*m=91:S@KVI]">
+                                      <field name="DO_WHAT">ENABLE</field>
+                                      <value name="TARGET">
+                                        <shadow type="objectList" id="Fw0NIE+z_H.n^^Y9vCF{">
+                                          <field name="FIELDNAME">131 3D фрагмент_97 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                        </shadow>
+                                      </value>
+                                    </block>
+                                  </next>
+                                </block>
+                              </next>
+                            </block>
+                          </next>
+                        </block>
+                      </statement>
+                      <statement name="DO_OUT">
+                        <block type="removeAnnotation" id="Fy$1W|+2CUkdCHJ)Haq-">
+                          <value name="TARGET">
+                            <shadow type="objectList" id="MI1LelKiVi/(.:B/-+FE">
+                              <field name="FIELDNAME">130 3D фрагмент_96 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                            </shadow>
+                          </value>
+                          <next>
+                            <block type="removeAnnotation" id="A#w%4^;=NBu-9PEb}7:F">
+                              <value name="TARGET">
+                                <shadow type="objectList" id="HdM9|f5u5GskbXdq@n-z">
+                                  <field name="FIELDNAME">131 3D фрагмент_97 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                </shadow>
+                              </value>
+                              <next>
+                                <block type="outline" id="Ax9$17H`!#_iZgsNyE3(">
+                                  <field name="DO_WHAT">DISABLE</field>
+                                  <value name="TARGET">
+                                    <shadow type="objectList" id="(a[/Il382FuD]Yc^1$m3">
+                                      <field name="FIELDNAME">130 3D фрагмент_96 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                    </shadow>
+                                  </value>
+                                  <next>
+                                    <block type="outline" id="Qi^`%edDm0~cJ9?!@)LG">
+                                      <field name="DO_WHAT">DISABLE</field>
+                                      <value name="TARGET">
+                                        <shadow type="objectList" id="ur6[u=/hDCAAyQV~W)r+">
+                                          <field name="FIELDNAME">131 3D фрагмент_97 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                        </shadow>
+                                      </value>
+                                    </block>
+                                  </next>
+                                </block>
+                              </next>
+                            </block>
+                          </next>
+                        </block>
+                      </statement>
+                      <next>
+                        <block type="whenHovered" id="+_`J@t?qi96{XdQ@kV(4" inline="false">
+                          <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+                          <field name="X_RAY">FALSE</field>
+                          <value name="VALUE">
+                            <shadow type="objectList" id="`D;Uoa?~K|z-8[*;*8;/">
+                              <field name="FIELDNAME">131 3D фрагмент_97 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                            </shadow>
+                          </value>
+                          <statement name="DO_OVER">
+                            <block type="addAnnotation" id="r8ROZ*qGVmzvqya*-%AF">
+                              <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+                              <value name="ANNOTATION">
+                                <shadow type="text" id="QSubN493Y^P)3GQbe/BF">
+                                  <field name="TEXT">Левое колесо</field>
+                                </shadow>
+                              </value>
+                              <value name="TARGET">
+                                <shadow type="objectList" id="p`..rMR+jBdw2k+UeiK=">
+                                  <field name="FIELDNAME">130 3D фрагмент_96 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                </shadow>
+                              </value>
+                              <value name="CONTENTS">
+                                <shadow type="text" id="[Dofq[abll{l~*Z5K=/f">
+                                  <field name="TEXT"></field>
+                                </shadow>
+                              </value>
+                              <value name="ID">
+                                <shadow type="text" id=":KhB=/~0|Y2*F4@j$Cvy">
+                                  <field name="TEXT">PD</field>
+                                </shadow>
+                              </value>
+                              <next>
+                                <block type="addAnnotation" id="zlr9?yg({C03Oap/6=`?">
+                                  <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+                                  <value name="ANNOTATION">
+                                    <shadow type="text" id="$^kO}qLWcg`a|v@ybC?,">
+                                      <field name="TEXT">Правое колесо</field>
+                                    </shadow>
+                                  </value>
+                                  <value name="TARGET">
+                                    <shadow type="objectList" id="f^[97p!Zw0)!,_222%|v">
+                                      <field name="FIELDNAME">131 3D фрагмент_97 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                    </shadow>
+                                  </value>
+                                  <value name="CONTENTS">
+                                    <shadow type="text" id="6/GBG:N^WT`eJ;19Z!/a">
+                                      <field name="TEXT"></field>
+                                    </shadow>
+                                  </value>
+                                  <value name="ID">
+                                    <shadow type="text" id="_j#|4{.bsYl[ug@#)RLd">
+                                      <field name="TEXT">PD</field>
+                                    </shadow>
+                                  </value>
+                                  <next>
+                                    <block type="outline" id="R6p8.dax$PIy~;vZ.;#.">
+                                      <field name="DO_WHAT">ENABLE</field>
+                                      <value name="TARGET">
+                                        <shadow type="objectList" id="B-!omqJG]=ajLjkB#,Z1">
+                                          <field name="FIELDNAME">130 3D фрагмент_96 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                        </shadow>
+                                      </value>
+                                      <next>
+                                        <block type="outline" id="{x/1pvu]=$:4/,rfk9IE">
+                                          <field name="DO_WHAT">ENABLE</field>
+                                          <value name="TARGET">
+                                            <shadow type="objectList" id="n*~WLBF^]eE[^#ExY4O|">
+                                              <field name="FIELDNAME">131 3D фрагмент_97 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                            </shadow>
+                                          </value>
+                                        </block>
+                                      </next>
+                                    </block>
+                                  </next>
+                                </block>
+                              </next>
+                            </block>
+                          </statement>
+                          <statement name="DO_OUT">
+                            <block type="removeAnnotation" id="{[10DF~[lk,ln$EqkxOf">
+                              <value name="TARGET">
+                                <shadow type="objectList" id="dq=$]oupyTu-cI5|_H$`">
+                                  <field name="FIELDNAME">130 3D фрагмент_96 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                </shadow>
+                              </value>
+                              <next>
+                                <block type="removeAnnotation" id=",k@A!==B}Ca3TrT.HzLM">
+                                  <value name="TARGET">
+                                    <shadow type="objectList" id="-Vmg6*53JeUSGw+qRD8X">
+                                      <field name="FIELDNAME">131 3D фрагмент_97 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                    </shadow>
+                                  </value>
+                                  <next>
+                                    <block type="outline" id="l^dAYyf787%`nmuGsQou">
+                                      <field name="DO_WHAT">DISABLE</field>
+                                      <value name="TARGET">
+                                        <shadow type="objectList" id="{v7S2qW)Hx{EWz+`_BRw">
+                                          <field name="FIELDNAME">130 3D фрагмент_96 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                        </shadow>
+                                      </value>
+                                      <next>
+                                        <block type="outline" id="=jT#m!MPQ@W{8X#vw8=g">
+                                          <field name="DO_WHAT">DISABLE</field>
+                                          <value name="TARGET">
+                                            <shadow type="objectList" id="07*`I!AN[f{R{P}2x^WU">
+                                              <field name="FIELDNAME">131 3D фрагмент_97 (Assembly_59_grb (Lego_RallyCar_59_g</field>
+                                            </shadow>
+                                          </value>
+                                        </block>
+                                      </next>
+                                    </block>
+                                  </next>
+                                </block>
+                              </next>
+                            </block>
+                          </statement>
+                          <next>
+                            <block type="whenHovered" id="POf$ld(S/]%(Dktbt4/f" inline="false">
+                              <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+                              <field name="X_RAY">FALSE</field>
+                              <value name="VALUE">
+                                <shadow type="objectList" id="jKtyS{Az^=sD,Cnc!ang">
+                                  <field name="FIELDNAME">55 3D фрагмент_44 (Assembly_21_grb (Lego_RallyCar_21_gr</field>
+                                </shadow>
+                              </value>
+                              <statement name="DO_OVER">
+                                <block type="addAnnotation" id="Dfmv7o@sknwaxmqTG(+C">
+                                  <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+                                  <value name="ANNOTATION">
+                                    <shadow type="text" id="?5Ht8${jx/#7Lhc!+}SQ">
+                                      <field name="TEXT">Правый подкрылок</field>
+                                    </shadow>
+                                  </value>
+                                  <value name="TARGET">
+                                    <shadow type="objectList" id="G{D2@!zrqzp,,t%]cPju">
+                                      <field name="FIELDNAME">55 3D фрагмент_44 (Assembly_21_grb (Lego_RallyCar_21_gr</field>
+                                    </shadow>
+                                  </value>
+                                  <value name="CONTENTS">
+                                    <shadow type="text" id="70FPF5uiSKABbnLyEN$Q">
+                                      <field name="TEXT"></field>
+                                    </shadow>
+                                  </value>
+                                  <value name="ID">
+                                    <shadow type="text" id="n2qu+6-lz8]E.B%9c3z0">
+                                      <field name="TEXT">PD</field>
+                                    </shadow>
+                                  </value>
+                                  <next>
+                                    <block type="addAnnotation" id="4(aCc3~Mjsa(1T`p=T6i">
+                                      <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+                                      <value name="ANNOTATION">
+                                        <shadow type="text" id="H+2r8j[`6;KFr5|b{)lD">
+                                          <field name="TEXT">Левый подкрылок</field>
+                                        </shadow>
+                                      </value>
+                                      <value name="TARGET">
+                                        <shadow type="objectList" id="gGB%)qVHl*CF#cop0kUa">
+                                          <field name="FIELDNAME">57 Симметрия_13</field>
+                                        </shadow>
+                                      </value>
+                                      <value name="CONTENTS">
+                                        <shadow type="text" id="^;B7kwJBIC$g08!llJ3:">
+                                          <field name="TEXT"></field>
+                                        </shadow>
+                                      </value>
+                                      <value name="ID">
+                                        <shadow type="text" id="~`wPfloRn}|2`S6^l32#">
+                                          <field name="TEXT">PD</field>
+                                        </shadow>
+                                      </value>
+                                      <next>
+                                        <block type="outline" id="~j)4OOr6wd5XbIlv`m@a">
+                                          <field name="DO_WHAT">ENABLE</field>
+                                          <value name="TARGET">
+                                            <shadow type="objectList" id="==0iC+1uk!!e+@/:ADQ(">
+                                              <field name="FIELDNAME">55 3D фрагмент_44 (Assembly_21_grb (Lego_RallyCar_21_gr</field>
+                                            </shadow>
+                                          </value>
+                                          <next>
+                                            <block type="outline" id="uqmGqf00w{2?:=l3l6L?">
+                                              <field name="DO_WHAT">ENABLE</field>
+                                              <value name="TARGET">
+                                                <shadow type="objectList" id="dBzM$[!];|J!O|l`J_s0">
+                                                  <field name="FIELDNAME">57 Симметрия_13</field>
+                                                </shadow>
+                                              </value>
+                                            </block>
+                                          </next>
+                                        </block>
+                                      </next>
+                                    </block>
+                                  </next>
+                                </block>
+                              </statement>
+                              <statement name="DO_OUT">
+                                <block type="removeAnnotation" id="USFF`C[A%cCn=*f#Cu(6">
+                                  <value name="TARGET">
+                                    <shadow type="objectList" id="iys6]b6Z=9CGD;)w.@?o">
+                                      <field name="FIELDNAME">55 3D фрагмент_44 (Assembly_21_grb (Lego_RallyCar_21_gr</field>
+                                    </shadow>
+                                  </value>
+                                  <next>
+                                    <block type="removeAnnotation" id="@B08jgCE{3nq_kyUGdfk">
+                                      <value name="TARGET">
+                                        <shadow type="objectList" id="6|w.YZ;V{iFZddaj1Z0*">
+                                          <field name="FIELDNAME">57 Симметрия_13</field>
+                                        </shadow>
+                                      </value>
+                                      <next>
+                                        <block type="outline" id="g[BZETW(zuy#C=)CTiz|">
+                                          <field name="DO_WHAT">DISABLE</field>
+                                          <value name="TARGET">
+                                            <shadow type="objectList" id="2!siJ2R5FP}w@@0^Or7.">
+                                              <field name="FIELDNAME">55 3D фрагмент_44 (Assembly_21_grb (Lego_RallyCar_21_gr</field>
+                                            </shadow>
+                                          </value>
+                                          <next>
+                                            <block type="outline" id=":7fs1^N)IGUyq^Q6cX*;">
+                                              <field name="DO_WHAT">DISABLE</field>
+                                              <value name="TARGET">
+                                                <shadow type="objectList" id="gOCDgg.DO}tt~9_-=}Fi">
+                                                  <field name="FIELDNAME">57 Симметрия_13</field>
+                                                </shadow>
+                                              </value>
+                                            </block>
+                                          </next>
+                                        </block>
+                                      </next>
+                                    </block>
+                                  </next>
+                                </block>
+                              </statement>
+                              <next>
+                                <block type="whenHovered" id=":vLAUBLE)%@+}q8V#IwE" inline="false">
+                                  <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false"></mutation>
+                                  <field name="X_RAY">FALSE</field>
+                                  <value name="VALUE">
+                                    <shadow type="objectList" id="}%4;`~mNm^0r?Ya_FHRp">
+                                      <field name="FIELDNAME">57 Симметрия_13</field>
+                                    </shadow>
+                                  </value>
+                                  <statement name="DO_OVER">
+                                    <block type="addAnnotation" id="WM=.FuXZv;$%2l-Pxl0}">
+                                      <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+                                      <value name="ANNOTATION">
+                                        <shadow type="text" id="|EI/Q8L$JlTTaC//CtvC">
+                                          <field name="TEXT">Правый подкрылок</field>
+                                        </shadow>
+                                      </value>
+                                      <value name="TARGET">
+                                        <shadow type="objectList" id="VMzb/2=NrFIaR?ddEzVH">
+                                          <field name="FIELDNAME">55 3D фрагмент_44 (Assembly_21_grb (Lego_RallyCar_21_gr</field>
+                                        </shadow>
+                                      </value>
+                                      <value name="CONTENTS">
+                                        <shadow type="text" id="BBqY67DzZ-36t^/^%7cX">
+                                          <field name="TEXT"></field>
+                                        </shadow>
+                                      </value>
+                                      <value name="ID">
+                                        <shadow type="text" id="06gKB{o1y8K/YP)vlc}[">
+                                          <field name="TEXT">PD</field>
+                                        </shadow>
+                                      </value>
+                                      <next>
+                                        <block type="addAnnotation" id="xwid.x9jra%?=m/*p1mA">
+                                          <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+                                          <value name="ANNOTATION">
+                                            <shadow type="text" id="izXLLQgfy8=;3CAF8Mt0">
+                                              <field name="TEXT">Левый подкрылок</field>
+                                            </shadow>
+                                          </value>
+                                          <value name="TARGET">
+                                            <shadow type="objectList" id="qMHup;;A7cx,tDfA}4Bv">
+                                              <field name="FIELDNAME">57 Симметрия_13</field>
+                                            </shadow>
+                                          </value>
+                                          <value name="CONTENTS">
+                                            <shadow type="text" id="dbV%=VD+c{E_/2I!o8:r">
+                                              <field name="TEXT"></field>
+                                            </shadow>
+                                          </value>
+                                          <value name="ID">
+                                            <shadow type="text" id="+6(?-ZjW#YHm@(t43OF!">
+                                              <field name="TEXT">PD</field>
+                                            </shadow>
+                                          </value>
+                                          <next>
+                                            <block type="outline" id="PO7tVlj|g2Vu:2dFWigM">
+                                              <field name="DO_WHAT">ENABLE</field>
+                                              <value name="TARGET">
+                                                <shadow type="objectList" id="3:~^M[),}J?Tp4vL;S%|">
+                                                  <field name="FIELDNAME">55 3D фрагмент_44 (Assembly_21_grb (Lego_RallyCar_21_gr</field>
+                                                </shadow>
+                                              </value>
+                                              <next>
+                                                <block type="outline" id="xo3cclQl5/=KE`1HUx|1">
+                                                  <field name="DO_WHAT">ENABLE</field>
+                                                  <value name="TARGET">
+                                                    <shadow type="objectList" id="l37o2EP|FI/;]i{SqtL9">
+                                                      <field name="FIELDNAME">57 Симметрия_13</field>
+                                                    </shadow>
+                                                  </value>
+                                                </block>
+                                              </next>
+                                            </block>
+                                          </next>
+                                        </block>
+                                      </next>
+                                    </block>
+                                  </statement>
+                                  <statement name="DO_OUT">
+                                    <block type="removeAnnotation" id="IjXfwfowE}]]In`2H;d9">
+                                      <value name="TARGET">
+                                        <shadow type="objectList" id=",gQ{AsDDc|P1~GFiHb$!">
+                                          <field name="FIELDNAME">55 3D фрагмент_44 (Assembly_21_grb (Lego_RallyCar_21_gr</field>
+                                        </shadow>
+                                      </value>
+                                      <next>
+                                        <block type="removeAnnotation" id=")Q~D@%}O.0?-!h7O,Y*L">
+                                          <value name="TARGET">
+                                            <shadow type="objectList" id="]6fK~`e(uZ^P2w+LPB-~">
+                                              <field name="FIELDNAME">57 Симметрия_13</field>
+                                            </shadow>
+                                          </value>
+                                          <next>
+                                            <block type="outline" id="B*lu#%I7e.S*eM*]d|]g">
+                                              <field name="DO_WHAT">DISABLE</field>
+                                              <value name="TARGET">
+                                                <shadow type="objectList" id=";6W.Yu,6~XT]KTXtn1#J">
+                                                  <field name="FIELDNAME">55 3D фрагмент_44 (Assembly_21_grb (Lego_RallyCar_21_gr</field>
+                                                </shadow>
+                                              </value>
+                                              <next>
+                                                <block type="outline" id="k7)w1P@4Ze.L^+eGj(O)">
+                                                  <field name="DO_WHAT">DISABLE</field>
+                                                  <value name="TARGET">
+                                                    <shadow type="objectList" id=":7,mxVCz4g)c^Rn!m,vr">
+                                                      <field name="FIELDNAME">57 Симметрия_13</field>
+                                                    </shadow>
+                                                  </value>
+                                                </block>
+                                              </next>
+                                            </block>
+                                          </next>
+                                        </block>
+                                      </next>
+                                    </block>
+                                  </statement>
+                                </block>
+                              </next>
+                            </block>
+                          </next>
+                        </block>
+                      </next>
+                    </block>
+                  </next>
+                </block>
+              </next>
+            </block>
+          </next>
+        </block>
+      </next>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="b{.`~M;?_2O]QwlM~k|h" inline="false" x="-70" y="2190">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="d{147{8_yjvFuI0u(!`v">
+          <field name="FIELDNAME">&lt;none&gt;</field>
+        </shadow>
+        <block type="allObjectList" id="x[W`_xT#1^[uO2;aC-h6"></block>
+      </value>
+      <statement name="DO">
+        <block type="autoRotateCamera" id="3A4ba6D~bueyn@oC2-}T">
+          <field name="ON_OFF">OFF</field>
+          <value name="SPEED">
+            <shadow type="math_number" id="ZNbl5N[l|7=6d|`BtKFT">
+              <field name="NUM">2</field>
+            </shadow>
+          </value>
+          <next>
+            <block type="setTimer" id="wBx7rIq4|^42%T{^@T}z">
+              <value name="ID">
+                <shadow type="text" id="*2^^Rz~@^C:W4t(FVVQN">
+                  <field name="TEXT">myTimer</field>
+                </shadow>
+              </value>
+              <value name="VALUE">
+                <shadow type="math_number" id="TN6va$kl2S7e|AP.d?es">
+                  <field name="NUM">5</field>
+                </shadow>
+              </value>
+              <value name="REPEAT">
+                <shadow type="math_number" id=":Klz_s#b`^``w/o,Ea$Q">
+                  <field name="NUM">Infinity</field>
+                </shadow>
+              </value>
+              <statement name="DO">
+                <block type="autoRotateCamera" id="`juKY^-u$8~c7#b)pD;+">
+                  <field name="ON_OFF">ON</field>
+                  <value name="SPEED">
+                    <shadow type="math_number" id="S57tyf,?UR_x[nM+C19s">
+                      <field name="NUM">2</field>
+                    </shadow>
+                  </value>
+                </block>
+              </statement>
+            </block>
+          </next>
+        </block>
+      </statement>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="5xJvMTY2uD|d4vB^7lm`" inline="false" x="-90" y="2430">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="690SM5cz?XbFZ3AV+HH*">
+          <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+        </shadow>
+        <block type="objectList" id="^rT2.)H_:+CH5mhWY*W1">
+          <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+        </block>
+      </value>
+      <statement name="DO">
+        <block type="playAnimationAdv" id="ybyU)m{en|2V*e/1FOKj">
+          <mutation xmlns="http://www.w3.org/1999/xhtml" advplaybackoptions="true" enablewhenfinished="true"></mutation>
+          <field name="REVERSED">TRUE</field>
+          <field name="LOOP">LoopOnce</field>
+          <value name="VALUE">
+            <shadow type="animationList" id="fhGiw{~{osGfocOZ-Ig0">
+              <field name="FIELDNAME">111 3D фрагмент_84 (Assembly_47_grb (Lego_RallyCar_47_g</field>
+            </shadow>
+          </value>
+          <value name="FROM">
+            <shadow type="math_number" id="?8ceL%uP/QY9N+~G%RRQ">
+              <field name="NUM">50</field>
+            </shadow>
+          </value>
+          <value name="TO">
+            <shadow type="math_number" id="LBz3;aA^SiZW?7m:0F+C">
+              <field name="NUM">0</field>
+            </shadow>
+          </value>
+          <value name="SPEED">
+            <shadow type="math_number" id="D#R!V5yYGTg[jQlSK44M">
+              <field name="NUM">10</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="variables_set" id="Ln!Ty_P6Q!iWCk}(bbEV" x="90" y="2610">
+      <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+      <value name="VALUE">
+        <block type="logic_boolean" id="AC~,oSYx$b!tep?s)+i`">
+          <field name="BOOL">TRUE</field>
+        </block>
+      </value>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="controls_if" id="ACV@5kWv2lv@Z)T?C2Is" x="-110" y="2690">
+      <value name="IF0">
+        <block type="logic_compare" id="jD;Yk9dN;XL3D.}!;nCt">
+          <field name="OP">EQ</field>
+          <value name="A">
+            <block type="variables_get" id="ox4VG?2upT**XNM`^!FH">
+              <field name="VAR" id="C$h_,TqVy^vr8NdL~VeO">car</field>
+            </block>
+          </value>
+          <value name="B">
+            <block type="logic_boolean" id="7:u.4c9~}uF{pv5jajHr">
+              <field name="BOOL">FALSE</field>
+            </block>
+          </value>
+        </block>
+      </value>
+    </block>
+    <block xmlns="https://developers.google.com/blockly/xml" type="groupList" id=":5T#pt;mmQB)|q[6en%m" x="10" y="2790">
+      <field name="FIELDNAME">anime</field>
+    </block>
+  </tab>
+  <editorsettings viewport-x="-322.38176269531255" viewport-y="596.9997968673706" viewport-w="495.454" viewport-h="447.898" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>
